@@ -31,7 +31,7 @@ class PAMNet(nn.Module):
         if self.dataset[:3].lower() == "rna":
             self.embeddings = nn.Parameter(torch.ones((3, self.dim))) # only C, N, O atoms for RNA
         else:
-            self.embeddings = nn.Parameter(torch.ones((5, self.dim)))
+            self.embeddings = nn.Parameter(torch.ones((100, self.dim))) # 100 is the maximum number of different elements in dataset
             self.init_linear = nn.Linear(18, self.dim, bias=False)
 
         self.rbf_g = BesselBasisLayer(16, self.cutoff_g, envelope_exponent)
@@ -164,7 +164,7 @@ class PAMNet(nn.Module):
         # Compute two-hop angles in local layer
         pos_ji, pos_kj = pos[idx_j] - pos[idx_i], pos[idx_k] - pos[idx_j]
         a = (pos_ji * pos_kj).sum(dim=-1)
-        b = torch.cross(pos_ji, pos_kj).norm(dim=-1)
+        b = torch.linalg.cross(pos_ji, pos_kj).norm(dim=-1)
         angle2 = torch.atan2(b, a)
 
         # Compute one-hop angles in local layer
@@ -173,7 +173,7 @@ class PAMNet(nn.Module):
         pos_j2_pair = pos[idx_j2_pair]
         pos_ji_pair, pos_jj_pair = pos_j1_pair - pos_i_pair, pos_j2_pair - pos_j1_pair
         a = (pos_ji_pair * pos_jj_pair).sum(dim=-1)
-        b = torch.cross(pos_ji_pair, pos_jj_pair).norm(dim=-1)
+        b = torch.linalg.cross(pos_ji_pair, pos_jj_pair).norm(dim=-1)
         angle1 = torch.atan2(b, a)
 
         # Get rbf and sbf embeddings
@@ -312,7 +312,7 @@ class PAMNet_s(nn.Module):
         pos_j2_pair = pos[idx_j2_pair]
         pos_ji_pair, pos_jj_pair = pos_j1_pair - pos_i_pair, pos_j2_pair - pos_j1_pair
         a = (pos_ji_pair * pos_jj_pair).sum(dim=-1)
-        b = torch.cross(pos_ji_pair, pos_jj_pair).norm(dim=-1)
+        b = torch.linalg.cross(pos_ji_pair, pos_jj_pair).norm(dim=-1)
         angle = torch.atan2(b, a)
 
         # Get rbf and sbf embeddings
