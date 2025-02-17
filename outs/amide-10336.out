@@ -1,0 +1,1031 @@
+Processing training molecules:   0%|          | 0/6996 [00:00<?, ?it/s]
+  0%|          | 0/6996 [00:00<?, ?it/s][A
+  1%|          | 84/6996 [00:00<00:08, 839.50it/s][AProcessing training molecules:   1%|          | 84/6996 [00:00<00:08, 837.27it/s]
+  2%|▏         | 170/6996 [00:00<00:08, 847.02it/s][AProcessing training molecules:   2%|▏         | 170/6996 [00:00<00:08, 846.12it/s]
+  4%|▎         | 256/6996 [00:00<00:07, 850.75it/s][AProcessing training molecules:   4%|▎         | 256/6996 [00:00<00:07, 850.27it/s]
+  5%|▍         | 342/6996 [00:00<00:07, 838.37it/s][AProcessing training molecules:   5%|▍         | 342/6996 [00:00<00:07, 838.08it/s]
+  6%|▌         | 426/6996 [00:00<00:07, 833.91it/s][AProcessing training molecules:   6%|▌         | 426/6996 [00:00<00:07, 833.72it/s]
+  7%|▋         | 510/6996 [00:00<00:07, 827.92it/s][AProcessing training molecules:   7%|▋         | 510/6996 [00:00<00:07, 827.76it/s]
+  8%|▊         | 593/6996 [00:00<00:07, 826.36it/s][AProcessing training molecules:   8%|▊         | 593/6996 [00:00<00:07, 826.28it/s]
+ 10%|▉         | 679/6996 [00:00<00:07, 836.26it/s][AProcessing training molecules:  10%|▉         | 679/6996 [00:00<00:07, 836.21it/s]
+ 11%|█         | 764/6996 [00:00<00:07, 838.66it/s][AProcessing training molecules:  11%|█         | 764/6996 [00:00<00:07, 838.63it/s]
+ 12%|█▏        | 850/6996 [00:01<00:07, 844.76it/s][AProcessing training molecules:  12%|█▏        | 850/6996 [00:01<00:07, 844.73it/s]
+ 13%|█▎        | 935/6996 [00:01<00:07, 842.91it/s][AProcessing training molecules:  13%|█▎        | 935/6996 [00:01<00:07, 842.89it/s]
+ 15%|█▍        | 1020/6996 [00:01<00:07, 831.70it/s][AProcessing training molecules:  15%|█▍        | 1020/6996 [00:01<00:07, 831.52it/s]
+ 16%|█▌        | 1106/6996 [00:01<00:07, 839.05it/s][AProcessing training molecules:  16%|█▌        | 1106/6996 [00:01<00:07, 839.07it/s]
+ 17%|█▋        | 1190/6996 [00:01<00:06, 837.03it/s][AProcessing training molecules:  17%|█▋        | 1190/6996 [00:01<00:06, 837.06it/s]
+ 18%|█▊        | 1274/6996 [00:01<00:06, 837.35it/s][AProcessing training molecules:  18%|█▊        | 1274/6996 [00:01<00:06, 837.36it/s]
+ 19%|█▉        | 1359/6996 [00:01<00:06, 840.73it/s][AProcessing training molecules:  19%|█▉        | 1359/6996 [00:01<00:06, 840.74it/s]
+ 21%|██        | 1444/6996 [00:01<00:06, 837.14it/s][AProcessing training molecules:  21%|██        | 1444/6996 [00:01<00:06, 837.15it/s]
+ 22%|██▏       | 1529/6996 [00:01<00:06, 839.19it/s][AProcessing training molecules:  22%|██▏       | 1529/6996 [00:01<00:06, 839.17it/s]
+ 23%|██▎       | 1615/6996 [00:01<00:06, 843.37it/s][AProcessing training molecules:  23%|██▎       | 1615/6996 [00:01<00:06, 843.36it/s]
+ 24%|██▍       | 1701/6996 [00:02<00:06, 846.63it/s][AProcessing training molecules:  24%|██▍       | 1701/6996 [00:02<00:06, 846.62it/s]
+ 26%|██▌       | 1786/6996 [00:02<00:06, 845.30it/s][AProcessing training molecules:  26%|██▌       | 1786/6996 [00:02<00:06, 845.29it/s]
+ 27%|██▋       | 1871/6996 [00:02<00:06, 843.28it/s][AProcessing training molecules:  27%|██▋       | 1871/6996 [00:02<00:06, 843.26it/s]
+ 28%|██▊       | 1956/6996 [00:02<00:05, 843.15it/s][AProcessing training molecules:  28%|██▊       | 1956/6996 [00:02<00:05, 843.15it/s]
+ 29%|██▉       | 2041/6996 [00:02<00:05, 838.97it/s][AProcessing training molecules:  29%|██▉       | 2041/6996 [00:02<00:05, 838.94it/s]
+ 30%|███       | 2126/6996 [00:02<00:05, 840.23it/s][AProcessing training molecules:  30%|███       | 2126/6996 [00:02<00:05, 840.23it/s]
+ 32%|███▏      | 2211/6996 [00:02<00:05, 835.85it/s][AProcessing training molecules:  32%|███▏      | 2211/6996 [00:02<00:05, 835.74it/s]
+ 33%|███▎      | 2295/6996 [00:02<00:05, 833.43it/s][AProcessing training molecules:  33%|███▎      | 2295/6996 [00:02<00:05, 833.48it/s]
+ 34%|███▍      | 2379/6996 [00:02<00:05, 834.46it/s][AProcessing training molecules:  34%|███▍      | 2379/6996 [00:02<00:05, 834.51it/s]
+ 35%|███▌      | 2463/6996 [00:02<00:05, 835.85it/s][AProcessing training molecules:  35%|███▌      | 2463/6996 [00:02<00:05, 835.87it/s]
+ 36%|███▋      | 2549/6996 [00:03<00:05, 842.63it/s][AProcessing training molecules:  36%|███▋      | 2549/6996 [00:03<00:05, 842.65it/s]
+ 38%|███▊      | 2634/6996 [00:03<00:05, 843.29it/s][AProcessing training molecules:  38%|███▊      | 2634/6996 [00:03<00:05, 843.25it/s]
+ 39%|███▉      | 2721/6996 [00:03<00:05, 850.15it/s][AProcessing training molecules:  39%|███▉      | 2721/6996 [00:03<00:05, 850.17it/s]
+ 40%|████      | 2807/6996 [00:03<00:04, 843.15it/s][AProcessing training molecules:  40%|████      | 2807/6996 [00:03<00:04, 843.17it/s]
+ 41%|████▏     | 2893/6996 [00:03<00:04, 847.25it/s][AProcessing training molecules:  41%|████▏     | 2893/6996 [00:03<00:04, 847.26it/s]
+ 43%|████▎     | 2978/6996 [00:03<00:04, 847.33it/s][AProcessing training molecules:  43%|████▎     | 2978/6996 [00:03<00:04, 847.34it/s]
+ 44%|████▍     | 3063/6996 [00:03<00:04, 845.44it/s][AProcessing training molecules:  44%|████▍     | 3063/6996 [00:03<00:04, 845.44it/s]
+ 45%|████▍     | 3148/6996 [00:03<00:04, 842.92it/s][AProcessing training molecules:  45%|████▍     | 3148/6996 [00:03<00:04, 842.92it/s]
+ 46%|████▌     | 3234/6996 [00:03<00:04, 845.88it/s][AProcessing training molecules:  46%|████▌     | 3234/6996 [00:03<00:04, 845.86it/s]
+ 47%|████▋     | 3321/6996 [00:03<00:04, 850.51it/s][AProcessing training molecules:  47%|████▋     | 3321/6996 [00:03<00:04, 850.49it/s]
+ 49%|████▊     | 3407/6996 [00:04<00:04, 846.90it/s][AProcessing training molecules:  49%|████▊     | 3407/6996 [00:04<00:04, 846.92it/s]
+ 50%|████▉     | 3492/6996 [00:04<00:04, 837.21it/s][AProcessing training molecules:  50%|████▉     | 3492/6996 [00:04<00:04, 837.04it/s]
+ 51%|█████     | 3576/6996 [00:04<00:04, 835.17it/s][AProcessing training molecules:  51%|█████     | 3576/6996 [00:04<00:04, 835.20it/s]
+ 52%|█████▏    | 3662/6996 [00:04<00:03, 840.17it/s][AProcessing training molecules:  52%|█████▏    | 3662/6996 [00:04<00:03, 840.20it/s]
+ 54%|█████▎    | 3747/6996 [00:04<00:03, 837.35it/s][AProcessing training molecules:  54%|█████▎    | 3747/6996 [00:04<00:03, 837.37it/s]
+ 55%|█████▍    | 3833/6996 [00:04<00:03, 841.10it/s][AProcessing training molecules:  55%|█████▍    | 3833/6996 [00:04<00:03, 841.12it/s]
+ 56%|█████▌    | 3919/6996 [00:04<00:03, 845.98it/s][AProcessing training molecules:  56%|█████▌    | 3919/6996 [00:04<00:03, 845.99it/s]
+ 57%|█████▋    | 4004/6996 [00:04<00:03, 844.14it/s][AProcessing training molecules:  57%|█████▋    | 4004/6996 [00:04<00:03, 844.14it/s]
+ 58%|█████▊    | 4089/6996 [00:04<00:03, 841.63it/s][AProcessing training molecules:  58%|█████▊    | 4089/6996 [00:04<00:03, 841.63it/s]
+ 60%|█████▉    | 4175/6996 [00:04<00:03, 846.40it/s][AProcessing training molecules:  60%|█████▉    | 4175/6996 [00:04<00:03, 846.40it/s]
+ 61%|██████    | 4260/6996 [00:05<00:03, 840.92it/s][AProcessing training molecules:  61%|██████    | 4260/6996 [00:05<00:03, 840.91it/s]
+ 62%|██████▏   | 4345/6996 [00:05<00:03, 837.04it/s][AProcessing training molecules:  62%|██████▏   | 4345/6996 [00:05<00:03, 837.03it/s]
+ 63%|██████▎   | 4431/6996 [00:05<00:03, 843.28it/s][AProcessing training molecules:  63%|██████▎   | 4431/6996 [00:05<00:03, 843.27it/s]
+ 65%|██████▍   | 4516/6996 [00:05<00:02, 837.94it/s][AProcessing training molecules:  65%|██████▍   | 4516/6996 [00:05<00:02, 837.92it/s]
+ 66%|██████▌   | 4600/6996 [00:05<00:02, 836.93it/s][AProcessing training molecules:  66%|██████▌   | 4600/6996 [00:05<00:02, 836.88it/s]
+ 67%|██████▋   | 4685/6996 [00:05<00:02, 838.43it/s][AProcessing training molecules:  67%|██████▋   | 4685/6996 [00:05<00:02, 838.41it/s]
+ 68%|██████▊   | 4769/6996 [00:05<00:02, 834.15it/s][AProcessing training molecules:  68%|██████▊   | 4769/6996 [00:05<00:02, 834.17it/s]
+ 69%|██████▉   | 4853/6996 [00:05<00:02, 831.44it/s][AProcessing training molecules:  69%|██████▉   | 4853/6996 [00:05<00:02, 831.35it/s]
+ 71%|███████   | 4938/6996 [00:05<00:02, 836.38it/s][AProcessing training molecules:  71%|███████   | 4938/6996 [00:05<00:02, 836.41it/s]
+ 72%|███████▏  | 5022/6996 [00:05<00:02, 836.37it/s][AProcessing training molecules:  72%|███████▏  | 5022/6996 [00:05<00:02, 836.38it/s]
+ 73%|███████▎  | 5106/6996 [00:06<00:02, 835.39it/s][AProcessing training molecules:  73%|███████▎  | 5106/6996 [00:06<00:02, 835.40it/s]
+ 74%|███████▍  | 5190/6996 [00:06<00:02, 832.22it/s][AProcessing training molecules:  74%|███████▍  | 5190/6996 [00:06<00:02, 832.20it/s]
+ 75%|███████▌  | 5274/6996 [00:06<00:02, 827.92it/s][AProcessing training molecules:  75%|███████▌  | 5274/6996 [00:06<00:02, 827.93it/s]
+ 77%|███████▋  | 5357/6996 [00:06<00:01, 827.85it/s][AProcessing training molecules:  77%|███████▋  | 5357/6996 [00:06<00:01, 827.78it/s]
+ 78%|███████▊  | 5442/6996 [00:06<00:01, 832.45it/s][AProcessing training molecules:  78%|███████▊  | 5442/6996 [00:06<00:01, 832.45it/s]
+ 79%|███████▉  | 5526/6996 [00:06<00:01, 832.81it/s][AProcessing training molecules:  79%|███████▉  | 5526/6996 [00:06<00:01, 832.81it/s]
+ 80%|████████  | 5611/6996 [00:06<00:01, 837.81it/s][AProcessing training molecules:  80%|████████  | 5611/6996 [00:06<00:01, 837.82it/s]
+ 81%|████████▏ | 5696/6996 [00:06<00:01, 840.60it/s][AProcessing training molecules:  81%|████████▏ | 5696/6996 [00:06<00:01, 840.60it/s]
+ 83%|████████▎ | 5781/6996 [00:06<00:01, 837.60it/s][AProcessing training molecules:  83%|████████▎ | 5781/6996 [00:06<00:01, 837.61it/s]
+ 84%|████████▍ | 5866/6996 [00:06<00:01, 837.89it/s][AProcessing training molecules:  84%|████████▍ | 5866/6996 [00:06<00:01, 837.90it/s]
+ 85%|████████▌ | 5952/6996 [00:07<00:01, 841.79it/s][AProcessing training molecules:  85%|████████▌ | 5952/6996 [00:07<00:01, 841.79it/s]
+ 86%|████████▋ | 6037/6996 [00:07<00:01, 839.42it/s][AProcessing training molecules:  86%|████████▋ | 6037/6996 [00:07<00:01, 839.42it/s]
+ 88%|████████▊ | 6122/6996 [00:07<00:01, 842.03it/s][AProcessing training molecules:  88%|████████▊ | 6122/6996 [00:07<00:01, 842.03it/s]
+ 89%|████████▊ | 6207/6996 [00:07<00:00, 840.61it/s][AProcessing training molecules:  89%|████████▊ | 6207/6996 [00:07<00:00, 840.62it/s]
+ 90%|████████▉ | 6292/6996 [00:07<00:00, 835.92it/s][AProcessing training molecules:  90%|████████▉ | 6292/6996 [00:07<00:00, 835.92it/s]
+ 91%|█████████ | 6376/6996 [00:07<00:00, 828.45it/s][AProcessing training molecules:  91%|█████████ | 6376/6996 [00:07<00:00, 828.17it/s]
+ 92%|█████████▏| 6459/6996 [00:07<00:00, 804.66it/s][AProcessing training molecules:  92%|█████████▏| 6459/6996 [00:07<00:00, 804.63it/s]
+ 93%|█████████▎| 6540/6996 [00:07<00:00, 803.30it/s][AProcessing training molecules:  93%|█████████▎| 6540/6996 [00:07<00:00, 803.30it/s]
+ 95%|█████████▍| 6621/6996 [00:07<00:00, 802.36it/s][AProcessing training molecules:  95%|█████████▍| 6621/6996 [00:07<00:00, 802.35it/s]
+ 96%|█████████▌| 6702/6996 [00:08<00:00, 501.25it/s][AProcessing training molecules:  96%|█████████▌| 6702/6996 [00:08<00:00, 501.27it/s]
+ 97%|█████████▋| 6783/6996 [00:08<00:00, 564.93it/s][AProcessing training molecules:  97%|█████████▋| 6783/6996 [00:08<00:00, 564.95it/s]
+ 98%|█████████▊| 6867/6996 [00:08<00:00, 626.01it/s][AProcessing training molecules:  98%|█████████▊| 6867/6996 [00:08<00:00, 626.01it/s]
+ 99%|█████████▉| 6955/6996 [00:08<00:00, 688.31it/s][AProcessing training molecules:  99%|█████████▉| 6955/6996 [00:08<00:00, 688.29it/s]Processing training molecules: 100%|██████████| 6996/6996 [00:08<00:00, 816.50it/s]
+100%|██████████| 6996/6996 [00:08<00:00, 816.50it/s]
+Processing test molecules:   0%|          | 0/3000 [00:00<?, ?it/s]
+  0%|          | 0/3000 [00:00<?, ?it/s][A
+  3%|▎         | 84/3000 [00:00<00:03, 835.86it/s][AProcessing test molecules:   3%|▎         | 84/3000 [00:00<00:03, 833.65it/s]
+  6%|▌         | 168/3000 [00:00<00:03, 832.22it/s][AProcessing test molecules:   6%|▌         | 168/3000 [00:00<00:03, 831.46it/s]
+  8%|▊         | 253/3000 [00:00<00:03, 836.76it/s][AProcessing test molecules:   8%|▊         | 253/3000 [00:00<00:03, 836.34it/s]
+ 11%|█         | 337/3000 [00:00<00:03, 834.82it/s][AProcessing test molecules:  11%|█         | 337/3000 [00:00<00:03, 834.56it/s]
+ 14%|█▍        | 422/3000 [00:00<00:03, 837.65it/s][AProcessing test molecules:  14%|█▍        | 422/3000 [00:00<00:03, 837.48it/s]
+ 17%|█▋        | 508/3000 [00:00<00:02, 841.23it/s][AProcessing test molecules:  17%|█▋        | 508/3000 [00:00<00:02, 841.09it/s]
+ 20%|█▉        | 593/3000 [00:00<00:02, 842.69it/s][AProcessing test molecules:  20%|█▉        | 593/3000 [00:00<00:02, 842.62it/s]
+ 23%|██▎       | 678/3000 [00:00<00:02, 839.26it/s][AProcessing test molecules:  23%|██▎       | 678/3000 [00:00<00:02, 839.20it/s]
+ 25%|██▌       | 762/3000 [00:00<00:02, 833.47it/s][AProcessing test molecules:  25%|██▌       | 762/3000 [00:00<00:02, 833.39it/s]
+ 28%|██▊       | 846/3000 [00:01<00:02, 817.81it/s][AProcessing test molecules:  28%|██▊       | 846/3000 [00:01<00:02, 817.62it/s]
+ 31%|███       | 929/3000 [00:01<00:02, 818.61it/s][AProcessing test molecules:  31%|███       | 929/3000 [00:01<00:02, 818.64it/s]
+ 34%|███▎      | 1011/3000 [00:01<00:02, 818.60it/s][AProcessing test molecules:  34%|███▎      | 1011/3000 [00:01<00:02, 818.62it/s]
+ 36%|███▋      | 1095/3000 [00:01<00:02, 823.20it/s][AProcessing test molecules:  36%|███▋      | 1095/3000 [00:01<00:02, 823.21it/s]
+ 39%|███▉      | 1178/3000 [00:01<00:02, 820.77it/s][AProcessing test molecules:  39%|███▉      | 1178/3000 [00:01<00:02, 820.77it/s]
+ 42%|████▏     | 1261/3000 [00:01<00:02, 818.14it/s][AProcessing test molecules:  42%|████▏     | 1261/3000 [00:01<00:02, 818.17it/s]
+ 45%|████▍     | 1345/3000 [00:01<00:02, 823.27it/s][AProcessing test molecules:  45%|████▍     | 1345/3000 [00:01<00:02, 823.28it/s]
+ 48%|████▊     | 1430/3000 [00:01<00:01, 831.02it/s][AProcessing test molecules:  48%|████▊     | 1430/3000 [00:01<00:01, 831.03it/s]
+ 50%|█████     | 1514/3000 [00:01<00:01, 830.46it/s][AProcessing test molecules:  50%|█████     | 1514/3000 [00:01<00:01, 830.46it/s]
+ 53%|█████▎    | 1598/3000 [00:01<00:01, 833.04it/s][AProcessing test molecules:  53%|█████▎    | 1598/3000 [00:01<00:01, 833.03it/s]
+ 56%|█████▌    | 1683/3000 [00:02<00:01, 836.24it/s][AProcessing test molecules:  56%|█████▌    | 1683/3000 [00:02<00:01, 836.19it/s]
+ 59%|█████▉    | 1767/3000 [00:02<00:01, 834.47it/s][AProcessing test molecules:  59%|█████▉    | 1767/3000 [00:02<00:01, 834.49it/s]
+ 62%|██████▏   | 1851/3000 [00:02<00:01, 831.00it/s][AProcessing test molecules:  62%|██████▏   | 1851/3000 [00:02<00:01, 831.01it/s]
+ 65%|██████▍   | 1936/3000 [00:02<00:01, 834.90it/s][AProcessing test molecules:  65%|██████▍   | 1936/3000 [00:02<00:01, 834.91it/s]
+ 67%|██████▋   | 2020/3000 [00:02<00:01, 830.10it/s][AProcessing test molecules:  67%|██████▋   | 2020/3000 [00:02<00:01, 830.10it/s]
+ 70%|███████   | 2104/3000 [00:02<00:01, 824.66it/s][AProcessing test molecules:  70%|███████   | 2104/3000 [00:02<00:01, 824.65it/s]
+ 73%|███████▎  | 2187/3000 [00:02<00:00, 814.58it/s][AProcessing test molecules:  73%|███████▎  | 2187/3000 [00:02<00:00, 814.58it/s]
+ 76%|███████▌  | 2271/3000 [00:02<00:00, 820.56it/s][AProcessing test molecules:  76%|███████▌  | 2271/3000 [00:02<00:00, 820.57it/s]
+ 78%|███████▊  | 2354/3000 [00:02<00:00, 821.66it/s][AProcessing test molecules:  78%|███████▊  | 2354/3000 [00:02<00:00, 821.64it/s]
+ 81%|████████  | 2437/3000 [00:02<00:00, 815.41it/s][AProcessing test molecules:  81%|████████  | 2437/3000 [00:02<00:00, 815.40it/s]
+ 84%|████████▍ | 2519/3000 [00:03<00:00, 811.88it/s][AProcessing test molecules:  84%|████████▍ | 2519/3000 [00:03<00:00, 811.87it/s]
+ 87%|████████▋ | 2603/3000 [00:03<00:00, 819.78it/s][AProcessing test molecules:  87%|████████▋ | 2603/3000 [00:03<00:00, 819.78it/s]
+ 90%|████████▉ | 2689/3000 [00:03<00:00, 829.11it/s][AProcessing test molecules:  90%|████████▉ | 2689/3000 [00:03<00:00, 829.09it/s]
+ 92%|█████████▏| 2774/3000 [00:03<00:00, 833.09it/s][AProcessing test molecules:  92%|█████████▏| 2774/3000 [00:03<00:00, 833.08it/s]
+ 95%|█████████▌| 2858/3000 [00:03<00:00, 834.00it/s][AProcessing test molecules:  95%|█████████▌| 2858/3000 [00:03<00:00, 834.01it/s]
+ 98%|█████████▊| 2945/3000 [00:03<00:00, 841.83it/s][AProcessing test molecules:  98%|█████████▊| 2945/3000 [00:03<00:00, 841.85it/s]Processing test molecules: 100%|██████████| 3000/3000 [00:03<00:00, 829.18it/s]
+100%|██████████| 3000/3000 [00:03<00:00, 829.18it/s]
+/opt/anaconda3/envs/pamnet_upd/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:156: UserWarning: The epoch parameter in `scheduler.step()` was not necessary and is being deprecated where possible. Please use `scheduler.step()` to step the scheduler. During the deprecation, if epoch is different from None, the closed form is used instead of the new chainable form, where available. Please open an issue if you are unable to replicate your use case: https://github.com/pytorch/pytorch/issues/new/choose.
+  warnings.warn(EPOCH_DEPRECATION_WARNING, UserWarning)
+/opt/anaconda3/envs/pamnet_upd/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:623: UserWarning: To get the last learning rate computed by the scheduler, please use `get_last_lr()`.
+  warnings.warn("To get the last learning rate computed by the scheduler, "
+Number of model parameters:  3593260
+Start training!
+Epoch: 001, Train MAE: 0.9495306, Val MAE: 1.6388602, Test MAE: 1.6686551
+Epoch: 002, Train MAE: 0.4657576, Val MAE: 1.1996958, Test MAE: 1.2291840
+Epoch: 003, Train MAE: 0.2182237, Val MAE: 0.9119231, Test MAE: 0.9410114
+Epoch: 004, Train MAE: 0.1758592, Val MAE: 0.8410858, Test MAE: 0.8623646
+Epoch: 005, Train MAE: 0.1225841, Val MAE: 0.8804587, Test MAE: 0.8623646
+Epoch: 006, Train MAE: 0.1119479, Val MAE: 0.9387828, Test MAE: 0.8623646
+Epoch: 007, Train MAE: 0.0951485, Val MAE: 0.9778592, Test MAE: 0.8623646
+Epoch: 008, Train MAE: 0.1177383, Val MAE: 0.9856522, Test MAE: 0.8623646
+Epoch: 009, Train MAE: 0.0799158, Val MAE: 0.9590917, Test MAE: 0.8623646
+Epoch: 010, Train MAE: 0.0770880, Val MAE: 0.8993646, Test MAE: 0.8623646
+Epoch: 011, Train MAE: 0.1395784, Val MAE: 0.8085020, Test MAE: 0.8181796
+Epoch: 012, Train MAE: 0.0798274, Val MAE: 0.6995413, Test MAE: 0.7076161
+Epoch: 013, Train MAE: 0.0614606, Val MAE: 0.5889120, Test MAE: 0.5955771
+Epoch: 014, Train MAE: 0.0717014, Val MAE: 0.4828641, Test MAE: 0.4885762
+Epoch: 015, Train MAE: 0.0458474, Val MAE: 0.3889071, Test MAE: 0.3941275
+Epoch: 016, Train MAE: 0.0787878, Val MAE: 0.3085185, Test MAE: 0.3134798
+Epoch: 017, Train MAE: 0.0601292, Val MAE: 0.2406755, Test MAE: 0.2451332
+Epoch: 018, Train MAE: 0.0532359, Val MAE: 0.1884381, Test MAE: 0.1920737
+Epoch: 019, Train MAE: 0.0558831, Val MAE: 0.1479733, Test MAE: 0.1508224
+Epoch: 020, Train MAE: 0.0505275, Val MAE: 0.1168394, Test MAE: 0.1188346
+Epoch: 021, Train MAE: 0.0564226, Val MAE: 0.0934216, Test MAE: 0.0950264
+Epoch: 022, Train MAE: 0.0499364, Val MAE: 0.0760211, Test MAE: 0.0776531
+Epoch: 023, Train MAE: 0.0427883, Val MAE: 0.0620915, Test MAE: 0.0637402
+Epoch: 024, Train MAE: 0.0534444, Val MAE: 0.0517494, Test MAE: 0.0533384
+Epoch: 025, Train MAE: 0.0343905, Val MAE: 0.0434154, Test MAE: 0.0449217
+Epoch: 026, Train MAE: 0.0663271, Val MAE: 0.0372434, Test MAE: 0.0386142
+Epoch: 027, Train MAE: 0.0541384, Val MAE: 0.0319941, Test MAE: 0.0333481
+Epoch: 028, Train MAE: 0.0412099, Val MAE: 0.0279296, Test MAE: 0.0291958
+Epoch: 029, Train MAE: 0.0435838, Val MAE: 0.0247747, Test MAE: 0.0260172
+Epoch: 030, Train MAE: 0.0467534, Val MAE: 0.0222099, Test MAE: 0.0234269
+Epoch: 031, Train MAE: 0.0411026, Val MAE: 0.0206095, Test MAE: 0.0217932
+Epoch: 032, Train MAE: 0.0338067, Val MAE: 0.0190619, Test MAE: 0.0201288
+Epoch: 033, Train MAE: 0.0423347, Val MAE: 0.0177812, Test MAE: 0.0188124
+Epoch: 034, Train MAE: 0.0400217, Val MAE: 0.0170047, Test MAE: 0.0179608
+Epoch: 035, Train MAE: 0.0475340, Val MAE: 0.0160305, Test MAE: 0.0169157
+Epoch: 036, Train MAE: 0.0460313, Val MAE: 0.0158058, Test MAE: 0.0165731
+Epoch: 037, Train MAE: 0.0431714, Val MAE: 0.0149587, Test MAE: 0.0156686
+Epoch: 038, Train MAE: 0.0290826, Val MAE: 0.0141291, Test MAE: 0.0147873
+Epoch: 039, Train MAE: 0.0347732, Val MAE: 0.0131738, Test MAE: 0.0138463
+Epoch: 040, Train MAE: 0.0396894, Val MAE: 0.0120709, Test MAE: 0.0127185
+Epoch: 041, Train MAE: 0.0372155, Val MAE: 0.0115234, Test MAE: 0.0121266
+Epoch: 042, Train MAE: 0.0470548, Val MAE: 0.0111435, Test MAE: 0.0117318
+Epoch: 043, Train MAE: 0.0323975, Val MAE: 0.0106503, Test MAE: 0.0112739
+Epoch: 044, Train MAE: 0.0335861, Val MAE: 0.0098750, Test MAE: 0.0104775
+Epoch: 045, Train MAE: 0.0308064, Val MAE: 0.0092163, Test MAE: 0.0097773
+Epoch: 046, Train MAE: 0.0377214, Val MAE: 0.0087062, Test MAE: 0.0092560
+Epoch: 047, Train MAE: 0.0412569, Val MAE: 0.0072247, Test MAE: 0.0077305
+Epoch: 048, Train MAE: 0.0297167, Val MAE: 0.0067588, Test MAE: 0.0072409
+Epoch: 049, Train MAE: 0.0345465, Val MAE: 0.0064546, Test MAE: 0.0069644
+Epoch: 050, Train MAE: 0.0332005, Val MAE: 0.0061002, Test MAE: 0.0065917
+Epoch: 051, Train MAE: 0.0431524, Val MAE: 0.0057071, Test MAE: 0.0062008
+Epoch: 052, Train MAE: 0.0277124, Val MAE: 0.0054753, Test MAE: 0.0059741
+Epoch: 053, Train MAE: 0.0265366, Val MAE: 0.0051086, Test MAE: 0.0055876
+Epoch: 054, Train MAE: 0.0264775, Val MAE: 0.0047705, Test MAE: 0.0052303
+Epoch: 055, Train MAE: 0.0290793, Val MAE: 0.0046326, Test MAE: 0.0051226
+Epoch: 056, Train MAE: 0.0286374, Val MAE: 0.0043838, Test MAE: 0.0048641
+Epoch: 057, Train MAE: 0.0282174, Val MAE: 0.0042736, Test MAE: 0.0047602
+Epoch: 058, Train MAE: 0.0375759, Val MAE: 0.0041352, Test MAE: 0.0045760
+Epoch: 059, Train MAE: 0.0208091, Val MAE: 0.0039519, Test MAE: 0.0043681
+Epoch: 060, Train MAE: 0.0334479, Val MAE: 0.0039531, Test MAE: 0.0043681
+Epoch: 061, Train MAE: 0.0328902, Val MAE: 0.0038150, Test MAE: 0.0042632
+Epoch: 062, Train MAE: 0.0277691, Val MAE: 0.0036548, Test MAE: 0.0041145
+Epoch: 063, Train MAE: 0.0358035, Val MAE: 0.0035920, Test MAE: 0.0040638
+Epoch: 064, Train MAE: 0.0289427, Val MAE: 0.0037421, Test MAE: 0.0040638
+Epoch: 065, Train MAE: 0.0361445, Val MAE: 0.0037209, Test MAE: 0.0040638
+Epoch: 066, Train MAE: 0.0267075, Val MAE: 0.0034476, Test MAE: 0.0038477
+Epoch: 067, Train MAE: 0.0256660, Val MAE: 0.0032494, Test MAE: 0.0036348
+Epoch: 068, Train MAE: 0.0263111, Val MAE: 0.0030370, Test MAE: 0.0034175
+Epoch: 069, Train MAE: 0.0277903, Val MAE: 0.0029334, Test MAE: 0.0033383
+Epoch: 070, Train MAE: 0.0261126, Val MAE: 0.0027013, Test MAE: 0.0031461
+Epoch: 071, Train MAE: 0.0263641, Val MAE: 0.0027281, Test MAE: 0.0031461
+Epoch: 072, Train MAE: 0.0280704, Val MAE: 0.0025997, Test MAE: 0.0031067
+Epoch: 073, Train MAE: 0.0291608, Val MAE: 0.0024908, Test MAE: 0.0029801
+Epoch: 074, Train MAE: 0.0206641, Val MAE: 0.0024220, Test MAE: 0.0028889
+Epoch: 075, Train MAE: 0.0252756, Val MAE: 0.0023532, Test MAE: 0.0028179
+Epoch: 076, Train MAE: 0.0294572, Val MAE: 0.0024320, Test MAE: 0.0028179
+Epoch: 077, Train MAE: 0.0253348, Val MAE: 0.0022703, Test MAE: 0.0027282
+Epoch: 078, Train MAE: 0.0387293, Val MAE: 0.0021651, Test MAE: 0.0026010
+Epoch: 079, Train MAE: 0.0210274, Val MAE: 0.0020353, Test MAE: 0.0024572
+Epoch: 080, Train MAE: 0.0264852, Val MAE: 0.0020860, Test MAE: 0.0024572
+Epoch: 081, Train MAE: 0.0231046, Val MAE: 0.0020541, Test MAE: 0.0024572
+Epoch: 082, Train MAE: 0.0255525, Val MAE: 0.0020151, Test MAE: 0.0023997
+Epoch: 083, Train MAE: 0.0256557, Val MAE: 0.0019084, Test MAE: 0.0023113
+Epoch: 084, Train MAE: 0.0234257, Val MAE: 0.0018546, Test MAE: 0.0022789
+Epoch: 085, Train MAE: 0.0197867, Val MAE: 0.0017800, Test MAE: 0.0021968
+Epoch: 086, Train MAE: 0.0248758, Val MAE: 0.0017301, Test MAE: 0.0021402
+Epoch: 087, Train MAE: 0.0243992, Val MAE: 0.0016581, Test MAE: 0.0020677
+Epoch: 088, Train MAE: 0.0261972, Val MAE: 0.0017126, Test MAE: 0.0020677
+Epoch: 089, Train MAE: 0.0238151, Val MAE: 0.0017182, Test MAE: 0.0020677
+Epoch: 090, Train MAE: 0.0188547, Val MAE: 0.0016507, Test MAE: 0.0020595
+Epoch: 091, Train MAE: 0.0282592, Val MAE: 0.0017108, Test MAE: 0.0020595
+Epoch: 092, Train MAE: 0.0209053, Val MAE: 0.0016410, Test MAE: 0.0020443
+Epoch: 093, Train MAE: 0.0242703, Val MAE: 0.0017271, Test MAE: 0.0020443
+Epoch: 094, Train MAE: 0.0242261, Val MAE: 0.0017321, Test MAE: 0.0020443
+Epoch: 095, Train MAE: 0.0221768, Val MAE: 0.0017098, Test MAE: 0.0020443
+Epoch: 096, Train MAE: 0.0178581, Val MAE: 0.0016728, Test MAE: 0.0020443
+Epoch: 097, Train MAE: 0.0219222, Val MAE: 0.0016863, Test MAE: 0.0020443
+Epoch: 098, Train MAE: 0.0175565, Val MAE: 0.0016780, Test MAE: 0.0020443
+Epoch: 099, Train MAE: 0.0251488, Val MAE: 0.0017683, Test MAE: 0.0020443
+Epoch: 100, Train MAE: 0.0266352, Val MAE: 0.0017134, Test MAE: 0.0020443
+Epoch: 101, Train MAE: 0.0234125, Val MAE: 0.0016749, Test MAE: 0.0020443
+Epoch: 102, Train MAE: 0.0188431, Val MAE: 0.0015130, Test MAE: 0.0018828
+Epoch: 103, Train MAE: 0.0151633, Val MAE: 0.0014465, Test MAE: 0.0018303
+Epoch: 104, Train MAE: 0.0233966, Val MAE: 0.0013949, Test MAE: 0.0017876
+Epoch: 105, Train MAE: 0.0172099, Val MAE: 0.0013385, Test MAE: 0.0017554
+Epoch: 106, Train MAE: 0.0153534, Val MAE: 0.0012473, Test MAE: 0.0016624
+Epoch: 107, Train MAE: 0.0252763, Val MAE: 0.0017697, Test MAE: 0.0016624
+Epoch: 108, Train MAE: 0.0195622, Val MAE: 0.0040732, Test MAE: 0.0016624
+Epoch: 109, Train MAE: 0.0260627, Val MAE: 0.0068025, Test MAE: 0.0016624
+Epoch: 110, Train MAE: 0.0186916, Val MAE: 0.0079503, Test MAE: 0.0016624
+Epoch: 111, Train MAE: 0.0196520, Val MAE: 0.0066229, Test MAE: 0.0016624
+Epoch: 112, Train MAE: 0.0147470, Val MAE: 0.0052504, Test MAE: 0.0016624
+Epoch: 113, Train MAE: 0.0179999, Val MAE: 0.0041235, Test MAE: 0.0016624
+Epoch: 114, Train MAE: 0.0166852, Val MAE: 0.0034328, Test MAE: 0.0016624
+Epoch: 115, Train MAE: 0.0216865, Val MAE: 0.0027020, Test MAE: 0.0016624
+Epoch: 116, Train MAE: 0.0180236, Val MAE: 0.0021771, Test MAE: 0.0016624
+Epoch: 117, Train MAE: 0.0219722, Val MAE: 0.0017846, Test MAE: 0.0016624
+Epoch: 118, Train MAE: 0.0187770, Val MAE: 0.0016293, Test MAE: 0.0016624
+Epoch: 119, Train MAE: 0.0198370, Val MAE: 0.0015371, Test MAE: 0.0016624
+Epoch: 120, Train MAE: 0.0156364, Val MAE: 0.0014420, Test MAE: 0.0016624
+Epoch: 121, Train MAE: 0.0171774, Val MAE: 0.0014081, Test MAE: 0.0016624
+Epoch: 122, Train MAE: 0.0196711, Val MAE: 0.0013262, Test MAE: 0.0016624
+Epoch: 123, Train MAE: 0.0229080, Val MAE: 0.0013166, Test MAE: 0.0016624
+Epoch: 124, Train MAE: 0.0215080, Val MAE: 0.0012686, Test MAE: 0.0016624
+Epoch: 125, Train MAE: 0.0189801, Val MAE: 0.0011874, Test MAE: 0.0015342
+Epoch: 126, Train MAE: 0.0170916, Val MAE: 0.0012415, Test MAE: 0.0015342
+Epoch: 127, Train MAE: 0.0200312, Val MAE: 0.0012578, Test MAE: 0.0015342
+Epoch: 128, Train MAE: 0.0166437, Val MAE: 0.0012517, Test MAE: 0.0015342
+Epoch: 129, Train MAE: 0.0200327, Val MAE: 0.0012352, Test MAE: 0.0015342
+Epoch: 130, Train MAE: 0.0178208, Val MAE: 0.0012070, Test MAE: 0.0015342
+Epoch: 131, Train MAE: 0.0134079, Val MAE: 0.0011568, Test MAE: 0.0014700
+Epoch: 132, Train MAE: 0.0186764, Val MAE: 0.0010821, Test MAE: 0.0013880
+Epoch: 133, Train MAE: 0.0153862, Val MAE: 0.0010411, Test MAE: 0.0013530
+Epoch: 134, Train MAE: 0.0186517, Val MAE: 0.0010821, Test MAE: 0.0013530
+Epoch: 135, Train MAE: 0.0156262, Val MAE: 0.0010347, Test MAE: 0.0013760
+Epoch: 136, Train MAE: 0.0220632, Val MAE: 0.0010267, Test MAE: 0.0013809
+Epoch: 137, Train MAE: 0.0141427, Val MAE: 0.0010149, Test MAE: 0.0013695
+Epoch: 138, Train MAE: 0.0124893, Val MAE: 0.0010143, Test MAE: 0.0013743
+Epoch: 139, Train MAE: 0.0177899, Val MAE: 0.0009962, Test MAE: 0.0013632
+Epoch: 140, Train MAE: 0.0113431, Val MAE: 0.0009559, Test MAE: 0.0013177
+Epoch: 141, Train MAE: 0.0173580, Val MAE: 0.0009316, Test MAE: 0.0012978
+Epoch: 142, Train MAE: 0.0132116, Val MAE: 0.0009123, Test MAE: 0.0012764
+Epoch: 143, Train MAE: 0.0159030, Val MAE: 0.0009452, Test MAE: 0.0012764
+Epoch: 144, Train MAE: 0.0209188, Val MAE: 0.0009556, Test MAE: 0.0012764
+Epoch: 145, Train MAE: 0.0147348, Val MAE: 0.0008951, Test MAE: 0.0012829
+Epoch: 146, Train MAE: 0.0171944, Val MAE: 0.0008742, Test MAE: 0.0012528
+Epoch: 147, Train MAE: 0.0140734, Val MAE: 0.0009282, Test MAE: 0.0012528
+Epoch: 148, Train MAE: 0.0164544, Val MAE: 0.0009228, Test MAE: 0.0012528
+Epoch: 149, Train MAE: 0.0151893, Val MAE: 0.0009094, Test MAE: 0.0012528
+Epoch: 150, Train MAE: 0.0143361, Val MAE: 0.0008706, Test MAE: 0.0012213
+Epoch: 151, Train MAE: 0.0154984, Val MAE: 0.0009065, Test MAE: 0.0012213
+Epoch: 152, Train MAE: 0.0134680, Val MAE: 0.0009026, Test MAE: 0.0012213
+Epoch: 153, Train MAE: 0.0151839, Val MAE: 0.0009069, Test MAE: 0.0012213
+Epoch: 154, Train MAE: 0.0167812, Val MAE: 0.0008827, Test MAE: 0.0012213
+Epoch: 155, Train MAE: 0.0119500, Val MAE: 0.0008340, Test MAE: 0.0012177
+Epoch: 156, Train MAE: 0.0139663, Val MAE: 0.0008644, Test MAE: 0.0012177
+Epoch: 157, Train MAE: 0.0130030, Val MAE: 0.0008153, Test MAE: 0.0012084
+Epoch: 158, Train MAE: 0.0117964, Val MAE: 0.0007571, Test MAE: 0.0011443
+Epoch: 159, Train MAE: 0.0159994, Val MAE: 0.0007900, Test MAE: 0.0011443
+Epoch: 160, Train MAE: 0.0108818, Val MAE: 0.0008627, Test MAE: 0.0011443
+Epoch: 161, Train MAE: 0.0117369, Val MAE: 0.0008526, Test MAE: 0.0011443
+Epoch: 162, Train MAE: 0.0128798, Val MAE: 0.0008343, Test MAE: 0.0011443
+Epoch: 163, Train MAE: 0.0183222, Val MAE: 0.0009178, Test MAE: 0.0011443
+Epoch: 164, Train MAE: 0.0125569, Val MAE: 0.0008692, Test MAE: 0.0011443
+Epoch: 165, Train MAE: 0.0186871, Val MAE: 0.0008738, Test MAE: 0.0011443
+Epoch: 166, Train MAE: 0.0104276, Val MAE: 0.0009050, Test MAE: 0.0011443
+Epoch: 167, Train MAE: 0.0128000, Val MAE: 0.0008219, Test MAE: 0.0011443
+Epoch: 168, Train MAE: 0.0169919, Val MAE: 0.0008263, Test MAE: 0.0011443
+Epoch: 169, Train MAE: 0.0111300, Val MAE: 0.0008256, Test MAE: 0.0011443
+Epoch: 170, Train MAE: 0.0146881, Val MAE: 0.0007968, Test MAE: 0.0011443
+Epoch: 171, Train MAE: 0.0146672, Val MAE: 0.0008313, Test MAE: 0.0011443
+Epoch: 172, Train MAE: 0.0139131, Val MAE: 0.0007626, Test MAE: 0.0011443
+Epoch: 173, Train MAE: 0.0191008, Val MAE: 0.0008688, Test MAE: 0.0011443
+Epoch: 174, Train MAE: 0.0121687, Val MAE: 0.0008118, Test MAE: 0.0011443
+Epoch: 175, Train MAE: 0.0107533, Val MAE: 0.0007753, Test MAE: 0.0011443
+Epoch: 176, Train MAE: 0.0142717, Val MAE: 0.0007568, Test MAE: 0.0011684
+Epoch: 177, Train MAE: 0.0155843, Val MAE: 0.0007600, Test MAE: 0.0011684
+Epoch: 178, Train MAE: 0.0089719, Val MAE: 0.0007301, Test MAE: 0.0011454
+Epoch: 179, Train MAE: 0.0208317, Val MAE: 0.0007305, Test MAE: 0.0011454
+Epoch: 180, Train MAE: 0.0147631, Val MAE: 0.0007195, Test MAE: 0.0011464
+Epoch: 181, Train MAE: 0.0089039, Val MAE: 0.0007091, Test MAE: 0.0011371
+Epoch: 182, Train MAE: 0.0144439, Val MAE: 0.0007470, Test MAE: 0.0011371
+Epoch: 183, Train MAE: 0.0110743, Val MAE: 0.0007775, Test MAE: 0.0011371
+Epoch: 184, Train MAE: 0.0160226, Val MAE: 0.0007207, Test MAE: 0.0011371
+Epoch: 185, Train MAE: 0.0104479, Val MAE: 0.0006905, Test MAE: 0.0010903
+Epoch: 186, Train MAE: 0.0146226, Val MAE: 0.0007218, Test MAE: 0.0010903
+Epoch: 187, Train MAE: 0.0116586, Val MAE: 0.0007461, Test MAE: 0.0010903
+Epoch: 188, Train MAE: 0.0155597, Val MAE: 0.0007730, Test MAE: 0.0010903
+Epoch: 189, Train MAE: 0.0120583, Val MAE: 0.0007948, Test MAE: 0.0010903
+Epoch: 190, Train MAE: 0.0118478, Val MAE: 0.0008510, Test MAE: 0.0010903
+Epoch: 191, Train MAE: 0.0102173, Val MAE: 0.0008817, Test MAE: 0.0010903
+Epoch: 192, Train MAE: 0.0115423, Val MAE: 0.0008347, Test MAE: 0.0010903
+Epoch: 193, Train MAE: 0.0090595, Val MAE: 0.0007406, Test MAE: 0.0010903
+Epoch: 194, Train MAE: 0.0181723, Val MAE: 0.0007776, Test MAE: 0.0010903
+Epoch: 195, Train MAE: 0.0131420, Val MAE: 0.0007300, Test MAE: 0.0010903
+Epoch: 196, Train MAE: 0.0108760, Val MAE: 0.0007084, Test MAE: 0.0010903
+Epoch: 197, Train MAE: 0.0097107, Val MAE: 0.0006936, Test MAE: 0.0010903
+Epoch: 198, Train MAE: 0.0116021, Val MAE: 0.0007205, Test MAE: 0.0010903
+Epoch: 199, Train MAE: 0.0106316, Val MAE: 0.0006905, Test MAE: 0.0010903
+Epoch: 200, Train MAE: 0.0091962, Val MAE: 0.0007007, Test MAE: 0.0010903
+Epoch: 201, Train MAE: 0.0093779, Val MAE: 0.0006882, Test MAE: 0.0010577
+Epoch: 202, Train MAE: 0.0110751, Val MAE: 0.0006858, Test MAE: 0.0010646
+Epoch: 203, Train MAE: 0.0107835, Val MAE: 0.0006180, Test MAE: 0.0009988
+Epoch: 204, Train MAE: 0.0114027, Val MAE: 0.0006371, Test MAE: 0.0009988
+Epoch: 205, Train MAE: 0.0123712, Val MAE: 0.0005829, Test MAE: 0.0009696
+Epoch: 206, Train MAE: 0.0110433, Val MAE: 0.0007102, Test MAE: 0.0009696
+Epoch: 207, Train MAE: 0.0077214, Val MAE: 0.0007387, Test MAE: 0.0009696
+Epoch: 208, Train MAE: 0.0117771, Val MAE: 0.0008242, Test MAE: 0.0009696
+Epoch: 209, Train MAE: 0.0154588, Val MAE: 0.0007932, Test MAE: 0.0009696
+Epoch: 210, Train MAE: 0.0126118, Val MAE: 0.0007778, Test MAE: 0.0009696
+Epoch: 211, Train MAE: 0.0118804, Val MAE: 0.0007818, Test MAE: 0.0009696
+Epoch: 212, Train MAE: 0.0094064, Val MAE: 0.0007501, Test MAE: 0.0009696
+Epoch: 213, Train MAE: 0.0098555, Val MAE: 0.0007115, Test MAE: 0.0009696
+Epoch: 214, Train MAE: 0.0094004, Val MAE: 0.0007129, Test MAE: 0.0009696
+Epoch: 215, Train MAE: 0.0105732, Val MAE: 0.0007374, Test MAE: 0.0009696
+Epoch: 216, Train MAE: 0.0099748, Val MAE: 0.0006870, Test MAE: 0.0009696
+Epoch: 217, Train MAE: 0.0100409, Val MAE: 0.0006653, Test MAE: 0.0009696
+Epoch: 218, Train MAE: 0.0116783, Val MAE: 0.0006145, Test MAE: 0.0009696
+Epoch: 219, Train MAE: 0.0102233, Val MAE: 0.0006039, Test MAE: 0.0009696
+Epoch: 220, Train MAE: 0.0119332, Val MAE: 0.0005716, Test MAE: 0.0009783
+Epoch: 221, Train MAE: 0.0103552, Val MAE: 0.0005326, Test MAE: 0.0009292
+Epoch: 222, Train MAE: 0.0109135, Val MAE: 0.0004925, Test MAE: 0.0008846
+Epoch: 223, Train MAE: 0.0108875, Val MAE: 0.0005353, Test MAE: 0.0008846
+Epoch: 224, Train MAE: 0.0119982, Val MAE: 0.0005526, Test MAE: 0.0008846
+Epoch: 225, Train MAE: 0.0094080, Val MAE: 0.0005776, Test MAE: 0.0008846
+Epoch: 226, Train MAE: 0.0089741, Val MAE: 0.0006187, Test MAE: 0.0008846
+Epoch: 227, Train MAE: 0.0102852, Val MAE: 0.0006207, Test MAE: 0.0008846
+Epoch: 228, Train MAE: 0.0105821, Val MAE: 0.0006690, Test MAE: 0.0008846
+Epoch: 229, Train MAE: 0.0080641, Val MAE: 0.0007007, Test MAE: 0.0008846
+Epoch: 230, Train MAE: 0.0101021, Val MAE: 0.0006018, Test MAE: 0.0008846
+Epoch: 231, Train MAE: 0.0106753, Val MAE: 0.0005884, Test MAE: 0.0008846
+Epoch: 232, Train MAE: 0.0087248, Val MAE: 0.0006156, Test MAE: 0.0008846
+Epoch: 233, Train MAE: 0.0134247, Val MAE: 0.0006436, Test MAE: 0.0008846
+Epoch: 234, Train MAE: 0.0101659, Val MAE: 0.0006418, Test MAE: 0.0008846
+Epoch: 235, Train MAE: 0.0116287, Val MAE: 0.0006301, Test MAE: 0.0008846
+Epoch: 236, Train MAE: 0.0110288, Val MAE: 0.0005982, Test MAE: 0.0008846
+Epoch: 237, Train MAE: 0.0093153, Val MAE: 0.0006359, Test MAE: 0.0008846
+Epoch: 238, Train MAE: 0.0091940, Val MAE: 0.0006354, Test MAE: 0.0008846
+Epoch: 239, Train MAE: 0.0097025, Val MAE: 0.0006695, Test MAE: 0.0008846
+Epoch: 240, Train MAE: 0.0095829, Val MAE: 0.0007092, Test MAE: 0.0008846
+Epoch: 241, Train MAE: 0.0104711, Val MAE: 0.0006345, Test MAE: 0.0008846
+Epoch: 242, Train MAE: 0.0080040, Val MAE: 0.0006594, Test MAE: 0.0008846
+Epoch: 243, Train MAE: 0.0071655, Val MAE: 0.0006698, Test MAE: 0.0008846
+Epoch: 244, Train MAE: 0.0110430, Val MAE: 0.0006959, Test MAE: 0.0008846
+Epoch: 245, Train MAE: 0.0093911, Val MAE: 0.0006541, Test MAE: 0.0008846
+Epoch: 246, Train MAE: 0.0093578, Val MAE: 0.0006223, Test MAE: 0.0008846
+Epoch: 247, Train MAE: 0.0087116, Val MAE: 0.0005966, Test MAE: 0.0008846
+Epoch: 248, Train MAE: 0.0081595, Val MAE: 0.0006010, Test MAE: 0.0008846
+Epoch: 249, Train MAE: 0.0098499, Val MAE: 0.0006291, Test MAE: 0.0008846
+Epoch: 250, Train MAE: 0.0074000, Val MAE: 0.0006462, Test MAE: 0.0008846
+Epoch: 251, Train MAE: 0.0099188, Val MAE: 0.0006857, Test MAE: 0.0008846
+Epoch: 252, Train MAE: 0.0076125, Val MAE: 0.0006325, Test MAE: 0.0008846
+Epoch: 253, Train MAE: 0.0105910, Val MAE: 0.0005799, Test MAE: 0.0008846
+Epoch: 254, Train MAE: 0.0105602, Val MAE: 0.0006059, Test MAE: 0.0008846
+Epoch: 255, Train MAE: 0.0086837, Val MAE: 0.0006557, Test MAE: 0.0008846
+Epoch: 256, Train MAE: 0.0093076, Val MAE: 0.0006674, Test MAE: 0.0008846
+Epoch: 257, Train MAE: 0.0091175, Val MAE: 0.0006861, Test MAE: 0.0008846
+Epoch: 258, Train MAE: 0.0097998, Val MAE: 0.0007133, Test MAE: 0.0008846
+Epoch: 259, Train MAE: 0.0085234, Val MAE: 0.0007187, Test MAE: 0.0008846
+Epoch: 260, Train MAE: 0.0082960, Val MAE: 0.0006606, Test MAE: 0.0008846
+Epoch: 261, Train MAE: 0.0094649, Val MAE: 0.0006234, Test MAE: 0.0008846
+Epoch: 262, Train MAE: 0.0086113, Val MAE: 0.0006259, Test MAE: 0.0008846
+Epoch: 263, Train MAE: 0.0090204, Val MAE: 0.0006054, Test MAE: 0.0008846
+Epoch: 264, Train MAE: 0.0059538, Val MAE: 0.0006601, Test MAE: 0.0008846
+Epoch: 265, Train MAE: 0.0102657, Val MAE: 0.0007027, Test MAE: 0.0008846
+Epoch: 266, Train MAE: 0.0087537, Val MAE: 0.0006864, Test MAE: 0.0008846
+Epoch: 267, Train MAE: 0.0070214, Val MAE: 0.0007124, Test MAE: 0.0008846
+Epoch: 268, Train MAE: 0.0075122, Val MAE: 0.0007602, Test MAE: 0.0008846
+Epoch: 269, Train MAE: 0.0088229, Val MAE: 0.0007357, Test MAE: 0.0008846
+Epoch: 270, Train MAE: 0.0071685, Val MAE: 0.0007575, Test MAE: 0.0008846
+Epoch: 271, Train MAE: 0.0061865, Val MAE: 0.0007797, Test MAE: 0.0008846
+Epoch: 272, Train MAE: 0.0093950, Val MAE: 0.0008224, Test MAE: 0.0008846
+Epoch: 273, Train MAE: 0.0102789, Val MAE: 0.0008109, Test MAE: 0.0008846
+Epoch: 274, Train MAE: 0.0079484, Val MAE: 0.0007878, Test MAE: 0.0008846
+Epoch: 275, Train MAE: 0.0084423, Val MAE: 0.0007878, Test MAE: 0.0008846
+Epoch: 276, Train MAE: 0.0083376, Val MAE: 0.0007085, Test MAE: 0.0008846
+Epoch: 277, Train MAE: 0.0070112, Val MAE: 0.0006732, Test MAE: 0.0008846
+Epoch: 278, Train MAE: 0.0083346, Val MAE: 0.0006935, Test MAE: 0.0008846
+Epoch: 279, Train MAE: 0.0084830, Val MAE: 0.0007103, Test MAE: 0.0008846
+Epoch: 280, Train MAE: 0.0083916, Val MAE: 0.0007615, Test MAE: 0.0008846
+Epoch: 281, Train MAE: 0.0101636, Val MAE: 0.0006898, Test MAE: 0.0008846
+Epoch: 282, Train MAE: 0.0068202, Val MAE: 0.0006802, Test MAE: 0.0008846
+Epoch: 283, Train MAE: 0.0068108, Val MAE: 0.0006662, Test MAE: 0.0008846
+Epoch: 284, Train MAE: 0.0082302, Val MAE: 0.0007178, Test MAE: 0.0008846
+Epoch: 285, Train MAE: 0.0057640, Val MAE: 0.0006723, Test MAE: 0.0008846
+Epoch: 286, Train MAE: 0.0064364, Val MAE: 0.0006825, Test MAE: 0.0008846
+Epoch: 287, Train MAE: 0.0088178, Val MAE: 0.0006449, Test MAE: 0.0008846
+Epoch: 288, Train MAE: 0.0068851, Val MAE: 0.0006270, Test MAE: 0.0008846
+Epoch: 289, Train MAE: 0.0072569, Val MAE: 0.0006513, Test MAE: 0.0008846
+Epoch: 290, Train MAE: 0.0083383, Val MAE: 0.0007098, Test MAE: 0.0008846
+Epoch: 291, Train MAE: 0.0054140, Val MAE: 0.0007424, Test MAE: 0.0008846
+Epoch: 292, Train MAE: 0.0089862, Val MAE: 0.0007285, Test MAE: 0.0008846
+Epoch: 293, Train MAE: 0.0091030, Val MAE: 0.0006477, Test MAE: 0.0008846
+Epoch: 294, Train MAE: 0.0069351, Val MAE: 0.0006224, Test MAE: 0.0008846
+Epoch: 295, Train MAE: 0.0076624, Val MAE: 0.0006433, Test MAE: 0.0008846
+Epoch: 296, Train MAE: 0.0057550, Val MAE: 0.0006551, Test MAE: 0.0008846
+Epoch: 297, Train MAE: 0.0099370, Val MAE: 0.0006639, Test MAE: 0.0008846
+Epoch: 298, Train MAE: 0.0060072, Val MAE: 0.0006406, Test MAE: 0.0008846
+Epoch: 299, Train MAE: 0.0066259, Val MAE: 0.0007310, Test MAE: 0.0008846
+Epoch: 300, Train MAE: 0.0077750, Val MAE: 0.0006898, Test MAE: 0.0008846
+Epoch: 301, Train MAE: 0.0059460, Val MAE: 0.0007812, Test MAE: 0.0008846
+Epoch: 302, Train MAE: 0.0103181, Val MAE: 0.0008134, Test MAE: 0.0008846
+Epoch: 303, Train MAE: 0.0075479, Val MAE: 0.0007621, Test MAE: 0.0008846
+Epoch: 304, Train MAE: 0.0070892, Val MAE: 0.0007736, Test MAE: 0.0008846
+Epoch: 305, Train MAE: 0.0109213, Val MAE: 0.0008329, Test MAE: 0.0008846
+Epoch: 306, Train MAE: 0.0062981, Val MAE: 0.0008861, Test MAE: 0.0008846
+Epoch: 307, Train MAE: 0.0069458, Val MAE: 0.0008928, Test MAE: 0.0008846
+Epoch: 308, Train MAE: 0.0107955, Val MAE: 0.0008299, Test MAE: 0.0008846
+Epoch: 309, Train MAE: 0.0094663, Val MAE: 0.0008320, Test MAE: 0.0008846
+Epoch: 310, Train MAE: 0.0069646, Val MAE: 0.0007418, Test MAE: 0.0008846
+Epoch: 311, Train MAE: 0.0067148, Val MAE: 0.0006899, Test MAE: 0.0008846
+Epoch: 312, Train MAE: 0.0064631, Val MAE: 0.0007223, Test MAE: 0.0008846
+Epoch: 313, Train MAE: 0.0074972, Val MAE: 0.0007118, Test MAE: 0.0008846
+Epoch: 314, Train MAE: 0.0071597, Val MAE: 0.0006750, Test MAE: 0.0008846
+Epoch: 315, Train MAE: 0.0064325, Val MAE: 0.0007073, Test MAE: 0.0008846
+Epoch: 316, Train MAE: 0.0055172, Val MAE: 0.0007110, Test MAE: 0.0008846
+Epoch: 317, Train MAE: 0.0065928, Val MAE: 0.0007550, Test MAE: 0.0008846
+Epoch: 318, Train MAE: 0.0057759, Val MAE: 0.0007156, Test MAE: 0.0008846
+Epoch: 319, Train MAE: 0.0075155, Val MAE: 0.0007589, Test MAE: 0.0008846
+Epoch: 320, Train MAE: 0.0066514, Val MAE: 0.0007732, Test MAE: 0.0008846
+Epoch: 321, Train MAE: 0.0064715, Val MAE: 0.0008399, Test MAE: 0.0008846
+Epoch: 322, Train MAE: 0.0074991, Val MAE: 0.0008249, Test MAE: 0.0008846
+Epoch: 323, Train MAE: 0.0078612, Val MAE: 0.0008595, Test MAE: 0.0008846
+Epoch: 324, Train MAE: 0.0057590, Val MAE: 0.0008636, Test MAE: 0.0008846
+Epoch: 325, Train MAE: 0.0052254, Val MAE: 0.0008206, Test MAE: 0.0008846
+Epoch: 326, Train MAE: 0.0051859, Val MAE: 0.0007893, Test MAE: 0.0008846
+Epoch: 327, Train MAE: 0.0060408, Val MAE: 0.0007697, Test MAE: 0.0008846
+Epoch: 328, Train MAE: 0.0066095, Val MAE: 0.0007599, Test MAE: 0.0008846
+Epoch: 329, Train MAE: 0.0051138, Val MAE: 0.0007701, Test MAE: 0.0008846
+Epoch: 330, Train MAE: 0.0065976, Val MAE: 0.0008351, Test MAE: 0.0008846
+Epoch: 331, Train MAE: 0.0057543, Val MAE: 0.0008526, Test MAE: 0.0008846
+Epoch: 332, Train MAE: 0.0057305, Val MAE: 0.0008133, Test MAE: 0.0008846
+Epoch: 333, Train MAE: 0.0064703, Val MAE: 0.0007510, Test MAE: 0.0008846
+Epoch: 334, Train MAE: 0.0054176, Val MAE: 0.0007314, Test MAE: 0.0008846
+Epoch: 335, Train MAE: 0.0092578, Val MAE: 0.0007074, Test MAE: 0.0008846
+Epoch: 336, Train MAE: 0.0073608, Val MAE: 0.0006726, Test MAE: 0.0008846
+Epoch: 337, Train MAE: 0.0053703, Val MAE: 0.0006596, Test MAE: 0.0008846
+Epoch: 338, Train MAE: 0.0061171, Val MAE: 0.0006452, Test MAE: 0.0008846
+Epoch: 339, Train MAE: 0.0069578, Val MAE: 0.0006258, Test MAE: 0.0008846
+Epoch: 340, Train MAE: 0.0059545, Val MAE: 0.0007256, Test MAE: 0.0008846
+Epoch: 341, Train MAE: 0.0061207, Val MAE: 0.0008101, Test MAE: 0.0008846
+Epoch: 342, Train MAE: 0.0086241, Val MAE: 0.0008577, Test MAE: 0.0008846
+Epoch: 343, Train MAE: 0.0064334, Val MAE: 0.0009078, Test MAE: 0.0008846
+Epoch: 344, Train MAE: 0.0074124, Val MAE: 0.0008756, Test MAE: 0.0008846
+Epoch: 345, Train MAE: 0.0062838, Val MAE: 0.0008682, Test MAE: 0.0008846
+Epoch: 346, Train MAE: 0.0067787, Val MAE: 0.0008528, Test MAE: 0.0008846
+Epoch: 347, Train MAE: 0.0057682, Val MAE: 0.0007752, Test MAE: 0.0008846
+Epoch: 348, Train MAE: 0.0062807, Val MAE: 0.0007674, Test MAE: 0.0008846
+Epoch: 349, Train MAE: 0.0041436, Val MAE: 0.0007667, Test MAE: 0.0008846
+Epoch: 350, Train MAE: 0.0046888, Val MAE: 0.0008199, Test MAE: 0.0008846
+Epoch: 351, Train MAE: 0.0061706, Val MAE: 0.0008427, Test MAE: 0.0008846
+Epoch: 352, Train MAE: 0.0039936, Val MAE: 0.0008754, Test MAE: 0.0008846
+Epoch: 353, Train MAE: 0.0066427, Val MAE: 0.0008717, Test MAE: 0.0008846
+Epoch: 354, Train MAE: 0.0044873, Val MAE: 0.0009243, Test MAE: 0.0008846
+Epoch: 355, Train MAE: 0.0059976, Val MAE: 0.0009196, Test MAE: 0.0008846
+Epoch: 356, Train MAE: 0.0060511, Val MAE: 0.0009263, Test MAE: 0.0008846
+Epoch: 357, Train MAE: 0.0066746, Val MAE: 0.0008615, Test MAE: 0.0008846
+Epoch: 358, Train MAE: 0.0058830, Val MAE: 0.0009415, Test MAE: 0.0008846
+Epoch: 359, Train MAE: 0.0067206, Val MAE: 0.0008798, Test MAE: 0.0008846
+Epoch: 360, Train MAE: 0.0049449, Val MAE: 0.0008883, Test MAE: 0.0008846
+Epoch: 361, Train MAE: 0.0068412, Val MAE: 0.0008734, Test MAE: 0.0008846
+Epoch: 362, Train MAE: 0.0061000, Val MAE: 0.0008493, Test MAE: 0.0008846
+Epoch: 363, Train MAE: 0.0052041, Val MAE: 0.0008356, Test MAE: 0.0008846
+Epoch: 364, Train MAE: 0.0053690, Val MAE: 0.0008050, Test MAE: 0.0008846
+Epoch: 365, Train MAE: 0.0053888, Val MAE: 0.0008286, Test MAE: 0.0008846
+Epoch: 366, Train MAE: 0.0051563, Val MAE: 0.0008346, Test MAE: 0.0008846
+Epoch: 367, Train MAE: 0.0051212, Val MAE: 0.0008882, Test MAE: 0.0008846
+Epoch: 368, Train MAE: 0.0052526, Val MAE: 0.0008869, Test MAE: 0.0008846
+Epoch: 369, Train MAE: 0.0071270, Val MAE: 0.0009370, Test MAE: 0.0008846
+Epoch: 370, Train MAE: 0.0050321, Val MAE: 0.0009596, Test MAE: 0.0008846
+Epoch: 371, Train MAE: 0.0046311, Val MAE: 0.0009986, Test MAE: 0.0008846
+Epoch: 372, Train MAE: 0.0063400, Val MAE: 0.0010071, Test MAE: 0.0008846
+Epoch: 373, Train MAE: 0.0052182, Val MAE: 0.0010114, Test MAE: 0.0008846
+Epoch: 374, Train MAE: 0.0045664, Val MAE: 0.0010478, Test MAE: 0.0008846
+Epoch: 375, Train MAE: 0.0039096, Val MAE: 0.0010682, Test MAE: 0.0008846
+Epoch: 376, Train MAE: 0.0047155, Val MAE: 0.0010542, Test MAE: 0.0008846
+Epoch: 377, Train MAE: 0.0040706, Val MAE: 0.0010165, Test MAE: 0.0008846
+Epoch: 378, Train MAE: 0.0047076, Val MAE: 0.0010460, Test MAE: 0.0008846
+Epoch: 379, Train MAE: 0.0040947, Val MAE: 0.0009986, Test MAE: 0.0008846
+Epoch: 380, Train MAE: 0.0057801, Val MAE: 0.0009746, Test MAE: 0.0008846
+Epoch: 381, Train MAE: 0.0046582, Val MAE: 0.0009972, Test MAE: 0.0008846
+Epoch: 382, Train MAE: 0.0054966, Val MAE: 0.0010090, Test MAE: 0.0008846
+Epoch: 383, Train MAE: 0.0055862, Val MAE: 0.0010249, Test MAE: 0.0008846
+Epoch: 384, Train MAE: 0.0056850, Val MAE: 0.0010446, Test MAE: 0.0008846
+Epoch: 385, Train MAE: 0.0043135, Val MAE: 0.0010235, Test MAE: 0.0008846
+Epoch: 386, Train MAE: 0.0051410, Val MAE: 0.0010094, Test MAE: 0.0008846
+Epoch: 387, Train MAE: 0.0049736, Val MAE: 0.0009736, Test MAE: 0.0008846
+Epoch: 388, Train MAE: 0.0044666, Val MAE: 0.0009379, Test MAE: 0.0008846
+Epoch: 389, Train MAE: 0.0039719, Val MAE: 0.0009450, Test MAE: 0.0008846
+Epoch: 390, Train MAE: 0.0052017, Val MAE: 0.0009909, Test MAE: 0.0008846
+Epoch: 391, Train MAE: 0.0055687, Val MAE: 0.0009573, Test MAE: 0.0008846
+Epoch: 392, Train MAE: 0.0045912, Val MAE: 0.0009668, Test MAE: 0.0008846
+Epoch: 393, Train MAE: 0.0052182, Val MAE: 0.0009307, Test MAE: 0.0008846
+Epoch: 394, Train MAE: 0.0046551, Val MAE: 0.0009265, Test MAE: 0.0008846
+Epoch: 395, Train MAE: 0.0053480, Val MAE: 0.0008906, Test MAE: 0.0008846
+Epoch: 396, Train MAE: 0.0049088, Val MAE: 0.0009106, Test MAE: 0.0008846
+Epoch: 397, Train MAE: 0.0049107, Val MAE: 0.0009154, Test MAE: 0.0008846
+Epoch: 398, Train MAE: 0.0057938, Val MAE: 0.0009035, Test MAE: 0.0008846
+Epoch: 399, Train MAE: 0.0069034, Val MAE: 0.0008754, Test MAE: 0.0008846
+Epoch: 400, Train MAE: 0.0037703, Val MAE: 0.0008792, Test MAE: 0.0008846
+Epoch: 401, Train MAE: 0.0044449, Val MAE: 0.0009183, Test MAE: 0.0008846
+Epoch: 402, Train MAE: 0.0044840, Val MAE: 0.0009676, Test MAE: 0.0008846
+Epoch: 403, Train MAE: 0.0041876, Val MAE: 0.0010122, Test MAE: 0.0008846
+Epoch: 404, Train MAE: 0.0048940, Val MAE: 0.0010546, Test MAE: 0.0008846
+Epoch: 405, Train MAE: 0.0042827, Val MAE: 0.0010590, Test MAE: 0.0008846
+Epoch: 406, Train MAE: 0.0046235, Val MAE: 0.0010881, Test MAE: 0.0008846
+Epoch: 407, Train MAE: 0.0043142, Val MAE: 0.0010752, Test MAE: 0.0008846
+Epoch: 408, Train MAE: 0.0047670, Val MAE: 0.0011098, Test MAE: 0.0008846
+Epoch: 409, Train MAE: 0.0055953, Val MAE: 0.0011256, Test MAE: 0.0008846
+Epoch: 410, Train MAE: 0.0049123, Val MAE: 0.0011765, Test MAE: 0.0008846
+Epoch: 411, Train MAE: 0.0041858, Val MAE: 0.0012127, Test MAE: 0.0008846
+Epoch: 412, Train MAE: 0.0049955, Val MAE: 0.0011786, Test MAE: 0.0008846
+Epoch: 413, Train MAE: 0.0045870, Val MAE: 0.0011494, Test MAE: 0.0008846
+Epoch: 414, Train MAE: 0.0054120, Val MAE: 0.0011202, Test MAE: 0.0008846
+Epoch: 415, Train MAE: 0.0037501, Val MAE: 0.0011156, Test MAE: 0.0008846
+Epoch: 416, Train MAE: 0.0032711, Val MAE: 0.0010873, Test MAE: 0.0008846
+Epoch: 417, Train MAE: 0.0043181, Val MAE: 0.0010831, Test MAE: 0.0008846
+Epoch: 418, Train MAE: 0.0042475, Val MAE: 0.0010797, Test MAE: 0.0008846
+Epoch: 419, Train MAE: 0.0058500, Val MAE: 0.0010459, Test MAE: 0.0008846
+Epoch: 420, Train MAE: 0.0037781, Val MAE: 0.0010653, Test MAE: 0.0008846
+Epoch: 421, Train MAE: 0.0036437, Val MAE: 0.0010593, Test MAE: 0.0008846
+Epoch: 422, Train MAE: 0.0052079, Val MAE: 0.0010317, Test MAE: 0.0008846
+Epoch: 423, Train MAE: 0.0035186, Val MAE: 0.0009928, Test MAE: 0.0008846
+Epoch: 424, Train MAE: 0.0044019, Val MAE: 0.0010006, Test MAE: 0.0008846
+Epoch: 425, Train MAE: 0.0040527, Val MAE: 0.0009927, Test MAE: 0.0008846
+Epoch: 426, Train MAE: 0.0045397, Val MAE: 0.0009822, Test MAE: 0.0008846
+Epoch: 427, Train MAE: 0.0040309, Val MAE: 0.0009324, Test MAE: 0.0008846
+Epoch: 428, Train MAE: 0.0047910, Val MAE: 0.0009314, Test MAE: 0.0008846
+Epoch: 429, Train MAE: 0.0037685, Val MAE: 0.0009528, Test MAE: 0.0008846
+Epoch: 430, Train MAE: 0.0040977, Val MAE: 0.0009756, Test MAE: 0.0008846
+Epoch: 431, Train MAE: 0.0041608, Val MAE: 0.0009591, Test MAE: 0.0008846
+Epoch: 432, Train MAE: 0.0049852, Val MAE: 0.0009781, Test MAE: 0.0008846
+Epoch: 433, Train MAE: 0.0039506, Val MAE: 0.0010245, Test MAE: 0.0008846
+Epoch: 434, Train MAE: 0.0040939, Val MAE: 0.0009948, Test MAE: 0.0008846
+Epoch: 435, Train MAE: 0.0036556, Val MAE: 0.0010334, Test MAE: 0.0008846
+Epoch: 436, Train MAE: 0.0032939, Val MAE: 0.0010548, Test MAE: 0.0008846
+Epoch: 437, Train MAE: 0.0040088, Val MAE: 0.0010346, Test MAE: 0.0008846
+Epoch: 438, Train MAE: 0.0050928, Val MAE: 0.0009894, Test MAE: 0.0008846
+Epoch: 439, Train MAE: 0.0038387, Val MAE: 0.0009709, Test MAE: 0.0008846
+Epoch: 440, Train MAE: 0.0071320, Val MAE: 0.0009154, Test MAE: 0.0008846
+Epoch: 441, Train MAE: 0.0034832, Val MAE: 0.0009054, Test MAE: 0.0008846
+Epoch: 442, Train MAE: 0.0037353, Val MAE: 0.0008862, Test MAE: 0.0008846
+Epoch: 443, Train MAE: 0.0040545, Val MAE: 0.0008863, Test MAE: 0.0008846
+Epoch: 444, Train MAE: 0.0046456, Val MAE: 0.0008786, Test MAE: 0.0008846
+Epoch: 445, Train MAE: 0.0031725, Val MAE: 0.0009112, Test MAE: 0.0008846
+Epoch: 446, Train MAE: 0.0046908, Val MAE: 0.0008961, Test MAE: 0.0008846
+Epoch: 447, Train MAE: 0.0041129, Val MAE: 0.0009239, Test MAE: 0.0008846
+Epoch: 448, Train MAE: 0.0046653, Val MAE: 0.0009612, Test MAE: 0.0008846
+Epoch: 449, Train MAE: 0.0040174, Val MAE: 0.0009758, Test MAE: 0.0008846
+Epoch: 450, Train MAE: 0.0029393, Val MAE: 0.0010134, Test MAE: 0.0008846
+Epoch: 451, Train MAE: 0.0033079, Val MAE: 0.0010805, Test MAE: 0.0008846
+Epoch: 452, Train MAE: 0.0032900, Val MAE: 0.0010962, Test MAE: 0.0008846
+Epoch: 453, Train MAE: 0.0040903, Val MAE: 0.0010999, Test MAE: 0.0008846
+Epoch: 454, Train MAE: 0.0028310, Val MAE: 0.0011396, Test MAE: 0.0008846
+Epoch: 455, Train MAE: 0.0046725, Val MAE: 0.0011079, Test MAE: 0.0008846
+Epoch: 456, Train MAE: 0.0034094, Val MAE: 0.0011259, Test MAE: 0.0008846
+Epoch: 457, Train MAE: 0.0039539, Val MAE: 0.0011792, Test MAE: 0.0008846
+Epoch: 458, Train MAE: 0.0032156, Val MAE: 0.0011998, Test MAE: 0.0008846
+Epoch: 459, Train MAE: 0.0032141, Val MAE: 0.0012019, Test MAE: 0.0008846
+Epoch: 460, Train MAE: 0.0036469, Val MAE: 0.0012292, Test MAE: 0.0008846
+Epoch: 461, Train MAE: 0.0039665, Val MAE: 0.0012578, Test MAE: 0.0008846
+Epoch: 462, Train MAE: 0.0044553, Val MAE: 0.0012553, Test MAE: 0.0008846
+Epoch: 463, Train MAE: 0.0029810, Val MAE: 0.0012564, Test MAE: 0.0008846
+Epoch: 464, Train MAE: 0.0037602, Val MAE: 0.0012757, Test MAE: 0.0008846
+Epoch: 465, Train MAE: 0.0037193, Val MAE: 0.0012565, Test MAE: 0.0008846
+Epoch: 466, Train MAE: 0.0041740, Val MAE: 0.0012408, Test MAE: 0.0008846
+Epoch: 467, Train MAE: 0.0031107, Val MAE: 0.0012380, Test MAE: 0.0008846
+Epoch: 468, Train MAE: 0.0039681, Val MAE: 0.0012377, Test MAE: 0.0008846
+Epoch: 469, Train MAE: 0.0043785, Val MAE: 0.0012317, Test MAE: 0.0008846
+Epoch: 470, Train MAE: 0.0045071, Val MAE: 0.0012082, Test MAE: 0.0008846
+Epoch: 471, Train MAE: 0.0031779, Val MAE: 0.0011971, Test MAE: 0.0008846
+Epoch: 472, Train MAE: 0.0038910, Val MAE: 0.0011810, Test MAE: 0.0008846
+Epoch: 473, Train MAE: 0.0045524, Val MAE: 0.0011531, Test MAE: 0.0008846
+Epoch: 474, Train MAE: 0.0038419, Val MAE: 0.0011138, Test MAE: 0.0008846
+Epoch: 475, Train MAE: 0.0031638, Val MAE: 0.0011122, Test MAE: 0.0008846
+Epoch: 476, Train MAE: 0.0042039, Val MAE: 0.0010748, Test MAE: 0.0008846
+Epoch: 477, Train MAE: 0.0040674, Val MAE: 0.0010352, Test MAE: 0.0008846
+Epoch: 478, Train MAE: 0.0032640, Val MAE: 0.0010151, Test MAE: 0.0008846
+Epoch: 479, Train MAE: 0.0034830, Val MAE: 0.0010084, Test MAE: 0.0008846
+Epoch: 480, Train MAE: 0.0029660, Val MAE: 0.0010043, Test MAE: 0.0008846
+Epoch: 481, Train MAE: 0.0040922, Val MAE: 0.0009824, Test MAE: 0.0008846
+Epoch: 482, Train MAE: 0.0034655, Val MAE: 0.0010060, Test MAE: 0.0008846
+Epoch: 483, Train MAE: 0.0022489, Val MAE: 0.0010189, Test MAE: 0.0008846
+Epoch: 484, Train MAE: 0.0032014, Val MAE: 0.0010242, Test MAE: 0.0008846
+Epoch: 485, Train MAE: 0.0034821, Val MAE: 0.0009991, Test MAE: 0.0008846
+Epoch: 486, Train MAE: 0.0045850, Val MAE: 0.0009758, Test MAE: 0.0008846
+Epoch: 487, Train MAE: 0.0037988, Val MAE: 0.0009795, Test MAE: 0.0008846
+Epoch: 488, Train MAE: 0.0036285, Val MAE: 0.0009802, Test MAE: 0.0008846
+Epoch: 489, Train MAE: 0.0033450, Val MAE: 0.0009757, Test MAE: 0.0008846
+Epoch: 490, Train MAE: 0.0027690, Val MAE: 0.0010270, Test MAE: 0.0008846
+Epoch: 491, Train MAE: 0.0035762, Val MAE: 0.0010380, Test MAE: 0.0008846
+Epoch: 492, Train MAE: 0.0027585, Val MAE: 0.0010602, Test MAE: 0.0008846
+Epoch: 493, Train MAE: 0.0030132, Val MAE: 0.0010743, Test MAE: 0.0008846
+Epoch: 494, Train MAE: 0.0025014, Val MAE: 0.0011088, Test MAE: 0.0008846
+Epoch: 495, Train MAE: 0.0037299, Val MAE: 0.0011476, Test MAE: 0.0008846
+Epoch: 496, Train MAE: 0.0025276, Val MAE: 0.0011667, Test MAE: 0.0008846
+Epoch: 497, Train MAE: 0.0033572, Val MAE: 0.0011700, Test MAE: 0.0008846
+Epoch: 498, Train MAE: 0.0031874, Val MAE: 0.0011996, Test MAE: 0.0008846
+Epoch: 499, Train MAE: 0.0033943, Val MAE: 0.0012132, Test MAE: 0.0008846
+Epoch: 500, Train MAE: 0.0031040, Val MAE: 0.0012153, Test MAE: 0.0008846
+Epoch: 501, Train MAE: 0.0037878, Val MAE: 0.0012172, Test MAE: 0.0008846
+Epoch: 502, Train MAE: 0.0032135, Val MAE: 0.0012064, Test MAE: 0.0008846
+Epoch: 503, Train MAE: 0.0027741, Val MAE: 0.0012390, Test MAE: 0.0008846
+Epoch: 504, Train MAE: 0.0030606, Val MAE: 0.0012464, Test MAE: 0.0008846
+Epoch: 505, Train MAE: 0.0032336, Val MAE: 0.0012781, Test MAE: 0.0008846
+Epoch: 506, Train MAE: 0.0031627, Val MAE: 0.0012846, Test MAE: 0.0008846
+Epoch: 507, Train MAE: 0.0043970, Val MAE: 0.0012505, Test MAE: 0.0008846
+Epoch: 508, Train MAE: 0.0031443, Val MAE: 0.0012448, Test MAE: 0.0008846
+Epoch: 509, Train MAE: 0.0032551, Val MAE: 0.0012224, Test MAE: 0.0008846
+Epoch: 510, Train MAE: 0.0031541, Val MAE: 0.0012232, Test MAE: 0.0008846
+Epoch: 511, Train MAE: 0.0027892, Val MAE: 0.0012186, Test MAE: 0.0008846
+Epoch: 512, Train MAE: 0.0032326, Val MAE: 0.0012006, Test MAE: 0.0008846
+Epoch: 513, Train MAE: 0.0028723, Val MAE: 0.0011883, Test MAE: 0.0008846
+Epoch: 514, Train MAE: 0.0034327, Val MAE: 0.0011876, Test MAE: 0.0008846
+Epoch: 515, Train MAE: 0.0031563, Val MAE: 0.0011904, Test MAE: 0.0008846
+Epoch: 516, Train MAE: 0.0026086, Val MAE: 0.0012126, Test MAE: 0.0008846
+Epoch: 517, Train MAE: 0.0030886, Val MAE: 0.0012023, Test MAE: 0.0008846
+Epoch: 518, Train MAE: 0.0029424, Val MAE: 0.0012267, Test MAE: 0.0008846
+Epoch: 519, Train MAE: 0.0031630, Val MAE: 0.0012299, Test MAE: 0.0008846
+Epoch: 520, Train MAE: 0.0030755, Val MAE: 0.0012363, Test MAE: 0.0008846
+Epoch: 521, Train MAE: 0.0028484, Val MAE: 0.0012449, Test MAE: 0.0008846
+Epoch: 522, Train MAE: 0.0039978, Val MAE: 0.0012337, Test MAE: 0.0008846
+Epoch: 523, Train MAE: 0.0018968, Val MAE: 0.0012674, Test MAE: 0.0008846
+Epoch: 524, Train MAE: 0.0031210, Val MAE: 0.0012497, Test MAE: 0.0008846
+Epoch: 525, Train MAE: 0.0026603, Val MAE: 0.0012494, Test MAE: 0.0008846
+Epoch: 526, Train MAE: 0.0036491, Val MAE: 0.0012452, Test MAE: 0.0008846
+Epoch: 527, Train MAE: 0.0031259, Val MAE: 0.0012304, Test MAE: 0.0008846
+Epoch: 528, Train MAE: 0.0025728, Val MAE: 0.0012152, Test MAE: 0.0008846
+Epoch: 529, Train MAE: 0.0029490, Val MAE: 0.0011938, Test MAE: 0.0008846
+Epoch: 530, Train MAE: 0.0033897, Val MAE: 0.0011875, Test MAE: 0.0008846
+Epoch: 531, Train MAE: 0.0029787, Val MAE: 0.0011972, Test MAE: 0.0008846
+Epoch: 532, Train MAE: 0.0038961, Val MAE: 0.0011907, Test MAE: 0.0008846
+Epoch: 533, Train MAE: 0.0029408, Val MAE: 0.0011684, Test MAE: 0.0008846
+Epoch: 534, Train MAE: 0.0020550, Val MAE: 0.0011685, Test MAE: 0.0008846
+Epoch: 535, Train MAE: 0.0024689, Val MAE: 0.0011667, Test MAE: 0.0008846
+Epoch: 536, Train MAE: 0.0028806, Val MAE: 0.0011591, Test MAE: 0.0008846
+Epoch: 537, Train MAE: 0.0023579, Val MAE: 0.0011618, Test MAE: 0.0008846
+Epoch: 538, Train MAE: 0.0024543, Val MAE: 0.0011450, Test MAE: 0.0008846
+Epoch: 539, Train MAE: 0.0024560, Val MAE: 0.0011624, Test MAE: 0.0008846
+Epoch: 540, Train MAE: 0.0017510, Val MAE: 0.0011805, Test MAE: 0.0008846
+Epoch: 541, Train MAE: 0.0034937, Val MAE: 0.0011864, Test MAE: 0.0008846
+Epoch: 542, Train MAE: 0.0023270, Val MAE: 0.0011856, Test MAE: 0.0008846
+Epoch: 543, Train MAE: 0.0023192, Val MAE: 0.0011836, Test MAE: 0.0008846
+Epoch: 544, Train MAE: 0.0030699, Val MAE: 0.0011905, Test MAE: 0.0008846
+Epoch: 545, Train MAE: 0.0026629, Val MAE: 0.0012140, Test MAE: 0.0008846
+Epoch: 546, Train MAE: 0.0021528, Val MAE: 0.0012229, Test MAE: 0.0008846
+Epoch: 547, Train MAE: 0.0033192, Val MAE: 0.0011959, Test MAE: 0.0008846
+Epoch: 548, Train MAE: 0.0031063, Val MAE: 0.0012065, Test MAE: 0.0008846
+Epoch: 549, Train MAE: 0.0026428, Val MAE: 0.0012435, Test MAE: 0.0008846
+Epoch: 550, Train MAE: 0.0020384, Val MAE: 0.0012735, Test MAE: 0.0008846
+Epoch: 551, Train MAE: 0.0020527, Val MAE: 0.0012975, Test MAE: 0.0008846
+Epoch: 552, Train MAE: 0.0026719, Val MAE: 0.0013007, Test MAE: 0.0008846
+Epoch: 553, Train MAE: 0.0020357, Val MAE: 0.0013135, Test MAE: 0.0008846
+Epoch: 554, Train MAE: 0.0018423, Val MAE: 0.0013283, Test MAE: 0.0008846
+Epoch: 555, Train MAE: 0.0029879, Val MAE: 0.0013111, Test MAE: 0.0008846
+Epoch: 556, Train MAE: 0.0028960, Val MAE: 0.0013338, Test MAE: 0.0008846
+Epoch: 557, Train MAE: 0.0022146, Val MAE: 0.0013344, Test MAE: 0.0008846
+Epoch: 558, Train MAE: 0.0024324, Val MAE: 0.0013199, Test MAE: 0.0008846
+Epoch: 559, Train MAE: 0.0023078, Val MAE: 0.0013196, Test MAE: 0.0008846
+Epoch: 560, Train MAE: 0.0028161, Val MAE: 0.0012998, Test MAE: 0.0008846
+Epoch: 561, Train MAE: 0.0030675, Val MAE: 0.0012710, Test MAE: 0.0008846
+Epoch: 562, Train MAE: 0.0022207, Val MAE: 0.0012765, Test MAE: 0.0008846
+Epoch: 563, Train MAE: 0.0021277, Val MAE: 0.0012897, Test MAE: 0.0008846
+Epoch: 564, Train MAE: 0.0029664, Val MAE: 0.0012724, Test MAE: 0.0008846
+Epoch: 565, Train MAE: 0.0023727, Val MAE: 0.0012589, Test MAE: 0.0008846
+Epoch: 566, Train MAE: 0.0023025, Val MAE: 0.0012469, Test MAE: 0.0008846
+Epoch: 567, Train MAE: 0.0029234, Val MAE: 0.0012288, Test MAE: 0.0008846
+Epoch: 568, Train MAE: 0.0022610, Val MAE: 0.0012086, Test MAE: 0.0008846
+Epoch: 569, Train MAE: 0.0020444, Val MAE: 0.0012147, Test MAE: 0.0008846
+Epoch: 570, Train MAE: 0.0016634, Val MAE: 0.0012288, Test MAE: 0.0008846
+Epoch: 571, Train MAE: 0.0023940, Val MAE: 0.0012321, Test MAE: 0.0008846
+Epoch: 572, Train MAE: 0.0019479, Val MAE: 0.0012317, Test MAE: 0.0008846
+Epoch: 573, Train MAE: 0.0024744, Val MAE: 0.0012163, Test MAE: 0.0008846
+Epoch: 574, Train MAE: 0.0025261, Val MAE: 0.0012321, Test MAE: 0.0008846
+Epoch: 575, Train MAE: 0.0022306, Val MAE: 0.0012429, Test MAE: 0.0008846
+Epoch: 576, Train MAE: 0.0019352, Val MAE: 0.0012512, Test MAE: 0.0008846
+Epoch: 577, Train MAE: 0.0030752, Val MAE: 0.0012202, Test MAE: 0.0008846
+Epoch: 578, Train MAE: 0.0019196, Val MAE: 0.0012327, Test MAE: 0.0008846
+Epoch: 579, Train MAE: 0.0027045, Val MAE: 0.0012410, Test MAE: 0.0008846
+Epoch: 580, Train MAE: 0.0021678, Val MAE: 0.0012342, Test MAE: 0.0008846
+Epoch: 581, Train MAE: 0.0024559, Val MAE: 0.0012531, Test MAE: 0.0008846
+Epoch: 582, Train MAE: 0.0024706, Val MAE: 0.0012516, Test MAE: 0.0008846
+Epoch: 583, Train MAE: 0.0020426, Val MAE: 0.0012773, Test MAE: 0.0008846
+Epoch: 584, Train MAE: 0.0021870, Val MAE: 0.0012963, Test MAE: 0.0008846
+Epoch: 585, Train MAE: 0.0018849, Val MAE: 0.0012962, Test MAE: 0.0008846
+Epoch: 586, Train MAE: 0.0019970, Val MAE: 0.0013119, Test MAE: 0.0008846
+Epoch: 587, Train MAE: 0.0024009, Val MAE: 0.0013208, Test MAE: 0.0008846
+Epoch: 588, Train MAE: 0.0023663, Val MAE: 0.0013206, Test MAE: 0.0008846
+Epoch: 589, Train MAE: 0.0029583, Val MAE: 0.0013012, Test MAE: 0.0008846
+Epoch: 590, Train MAE: 0.0019738, Val MAE: 0.0013260, Test MAE: 0.0008846
+Epoch: 591, Train MAE: 0.0022656, Val MAE: 0.0013391, Test MAE: 0.0008846
+Epoch: 592, Train MAE: 0.0025246, Val MAE: 0.0013344, Test MAE: 0.0008846
+Epoch: 593, Train MAE: 0.0019881, Val MAE: 0.0013417, Test MAE: 0.0008846
+Epoch: 594, Train MAE: 0.0016971, Val MAE: 0.0013562, Test MAE: 0.0008846
+Epoch: 595, Train MAE: 0.0027264, Val MAE: 0.0013351, Test MAE: 0.0008846
+Epoch: 596, Train MAE: 0.0018088, Val MAE: 0.0013446, Test MAE: 0.0008846
+Epoch: 597, Train MAE: 0.0022993, Val MAE: 0.0013522, Test MAE: 0.0008846
+Epoch: 598, Train MAE: 0.0021084, Val MAE: 0.0013456, Test MAE: 0.0008846
+Epoch: 599, Train MAE: 0.0019786, Val MAE: 0.0013477, Test MAE: 0.0008846
+Epoch: 600, Train MAE: 0.0019183, Val MAE: 0.0013660, Test MAE: 0.0008846
+Epoch: 601, Train MAE: 0.0020464, Val MAE: 0.0013701, Test MAE: 0.0008846
+Epoch: 602, Train MAE: 0.0020798, Val MAE: 0.0013600, Test MAE: 0.0008846
+Epoch: 603, Train MAE: 0.0024550, Val MAE: 0.0013403, Test MAE: 0.0008846
+Epoch: 604, Train MAE: 0.0018726, Val MAE: 0.0013432, Test MAE: 0.0008846
+Epoch: 605, Train MAE: 0.0023650, Val MAE: 0.0013186, Test MAE: 0.0008846
+Epoch: 606, Train MAE: 0.0021094, Val MAE: 0.0013163, Test MAE: 0.0008846
+Epoch: 607, Train MAE: 0.0018837, Val MAE: 0.0013066, Test MAE: 0.0008846
+Epoch: 608, Train MAE: 0.0016902, Val MAE: 0.0013063, Test MAE: 0.0008846
+Epoch: 609, Train MAE: 0.0018628, Val MAE: 0.0013060, Test MAE: 0.0008846
+Epoch: 610, Train MAE: 0.0018347, Val MAE: 0.0013110, Test MAE: 0.0008846
+Epoch: 611, Train MAE: 0.0020335, Val MAE: 0.0012980, Test MAE: 0.0008846
+Epoch: 612, Train MAE: 0.0016315, Val MAE: 0.0012860, Test MAE: 0.0008846
+Epoch: 613, Train MAE: 0.0016518, Val MAE: 0.0012904, Test MAE: 0.0008846
+Epoch: 614, Train MAE: 0.0016846, Val MAE: 0.0012862, Test MAE: 0.0008846
+Epoch: 615, Train MAE: 0.0020415, Val MAE: 0.0012672, Test MAE: 0.0008846
+Epoch: 616, Train MAE: 0.0024227, Val MAE: 0.0012617, Test MAE: 0.0008846
+Epoch: 617, Train MAE: 0.0015623, Val MAE: 0.0012544, Test MAE: 0.0008846
+Epoch: 618, Train MAE: 0.0023177, Val MAE: 0.0012155, Test MAE: 0.0008846
+Epoch: 619, Train MAE: 0.0018319, Val MAE: 0.0012088, Test MAE: 0.0008846
+Epoch: 620, Train MAE: 0.0022487, Val MAE: 0.0011704, Test MAE: 0.0008846
+Epoch: 621, Train MAE: 0.0019205, Val MAE: 0.0011645, Test MAE: 0.0008846
+Epoch: 622, Train MAE: 0.0016542, Val MAE: 0.0011568, Test MAE: 0.0008846
+Epoch: 623, Train MAE: 0.0021330, Val MAE: 0.0011424, Test MAE: 0.0008846
+Epoch: 624, Train MAE: 0.0017470, Val MAE: 0.0011381, Test MAE: 0.0008846
+Epoch: 625, Train MAE: 0.0020043, Val MAE: 0.0011214, Test MAE: 0.0008846
+Epoch: 626, Train MAE: 0.0018991, Val MAE: 0.0011248, Test MAE: 0.0008846
+Epoch: 627, Train MAE: 0.0020187, Val MAE: 0.0011231, Test MAE: 0.0008846
+Epoch: 628, Train MAE: 0.0019370, Val MAE: 0.0011064, Test MAE: 0.0008846
+Epoch: 629, Train MAE: 0.0021609, Val MAE: 0.0010953, Test MAE: 0.0008846
+Epoch: 630, Train MAE: 0.0016181, Val MAE: 0.0010866, Test MAE: 0.0008846
+Epoch: 631, Train MAE: 0.0018153, Val MAE: 0.0010847, Test MAE: 0.0008846
+Epoch: 632, Train MAE: 0.0015476, Val MAE: 0.0010983, Test MAE: 0.0008846
+Epoch: 633, Train MAE: 0.0024040, Val MAE: 0.0011042, Test MAE: 0.0008846
+Epoch: 634, Train MAE: 0.0016716, Val MAE: 0.0011179, Test MAE: 0.0008846
+Epoch: 635, Train MAE: 0.0020663, Val MAE: 0.0011213, Test MAE: 0.0008846
+Epoch: 636, Train MAE: 0.0017318, Val MAE: 0.0011407, Test MAE: 0.0008846
+Epoch: 637, Train MAE: 0.0014678, Val MAE: 0.0011555, Test MAE: 0.0008846
+Epoch: 638, Train MAE: 0.0022685, Val MAE: 0.0011529, Test MAE: 0.0008846
+Epoch: 639, Train MAE: 0.0019210, Val MAE: 0.0011547, Test MAE: 0.0008846
+Epoch: 640, Train MAE: 0.0020350, Val MAE: 0.0011673, Test MAE: 0.0008846
+Epoch: 641, Train MAE: 0.0022841, Val MAE: 0.0011783, Test MAE: 0.0008846
+Epoch: 642, Train MAE: 0.0017816, Val MAE: 0.0011939, Test MAE: 0.0008846
+Epoch: 643, Train MAE: 0.0012452, Val MAE: 0.0012135, Test MAE: 0.0008846
+Epoch: 644, Train MAE: 0.0016173, Val MAE: 0.0012315, Test MAE: 0.0008846
+Epoch: 645, Train MAE: 0.0018884, Val MAE: 0.0012359, Test MAE: 0.0008846
+Epoch: 646, Train MAE: 0.0017370, Val MAE: 0.0012378, Test MAE: 0.0008846
+Epoch: 647, Train MAE: 0.0017253, Val MAE: 0.0012358, Test MAE: 0.0008846
+Epoch: 648, Train MAE: 0.0016991, Val MAE: 0.0012513, Test MAE: 0.0008846
+Epoch: 649, Train MAE: 0.0017912, Val MAE: 0.0012471, Test MAE: 0.0008846
+Epoch: 650, Train MAE: 0.0012739, Val MAE: 0.0012640, Test MAE: 0.0008846
+Epoch: 651, Train MAE: 0.0014467, Val MAE: 0.0012821, Test MAE: 0.0008846
+Epoch: 652, Train MAE: 0.0019541, Val MAE: 0.0012901, Test MAE: 0.0008846
+Epoch: 653, Train MAE: 0.0012858, Val MAE: 0.0013028, Test MAE: 0.0008846
+Epoch: 654, Train MAE: 0.0019638, Val MAE: 0.0013071, Test MAE: 0.0008846
+Epoch: 655, Train MAE: 0.0021239, Val MAE: 0.0013059, Test MAE: 0.0008846
+Epoch: 656, Train MAE: 0.0018915, Val MAE: 0.0013135, Test MAE: 0.0008846
+Epoch: 657, Train MAE: 0.0018145, Val MAE: 0.0013033, Test MAE: 0.0008846
+Epoch: 658, Train MAE: 0.0014392, Val MAE: 0.0013118, Test MAE: 0.0008846
+Epoch: 659, Train MAE: 0.0016776, Val MAE: 0.0013153, Test MAE: 0.0008846
+Epoch: 660, Train MAE: 0.0016805, Val MAE: 0.0013013, Test MAE: 0.0008846
+Epoch: 661, Train MAE: 0.0014228, Val MAE: 0.0013112, Test MAE: 0.0008846
+Epoch: 662, Train MAE: 0.0015686, Val MAE: 0.0012994, Test MAE: 0.0008846
+Epoch: 663, Train MAE: 0.0019625, Val MAE: 0.0012930, Test MAE: 0.0008846
+Epoch: 664, Train MAE: 0.0013215, Val MAE: 0.0012945, Test MAE: 0.0008846
+Epoch: 665, Train MAE: 0.0012336, Val MAE: 0.0012973, Test MAE: 0.0008846
+Epoch: 666, Train MAE: 0.0022207, Val MAE: 0.0012763, Test MAE: 0.0008846
+Epoch: 667, Train MAE: 0.0015865, Val MAE: 0.0012713, Test MAE: 0.0008846
+Epoch: 668, Train MAE: 0.0015217, Val MAE: 0.0012691, Test MAE: 0.0008846
+Epoch: 669, Train MAE: 0.0019123, Val MAE: 0.0012582, Test MAE: 0.0008846
+Epoch: 670, Train MAE: 0.0013797, Val MAE: 0.0012632, Test MAE: 0.0008846
+Epoch: 671, Train MAE: 0.0011135, Val MAE: 0.0012670, Test MAE: 0.0008846
+Epoch: 672, Train MAE: 0.0015927, Val MAE: 0.0012656, Test MAE: 0.0008846
+Epoch: 673, Train MAE: 0.0012902, Val MAE: 0.0012660, Test MAE: 0.0008846
+Epoch: 674, Train MAE: 0.0013650, Val MAE: 0.0012553, Test MAE: 0.0008846
+Epoch: 675, Train MAE: 0.0013093, Val MAE: 0.0012592, Test MAE: 0.0008846
+Epoch: 676, Train MAE: 0.0014251, Val MAE: 0.0012566, Test MAE: 0.0008846
+Epoch: 677, Train MAE: 0.0015788, Val MAE: 0.0012439, Test MAE: 0.0008846
+Epoch: 678, Train MAE: 0.0015974, Val MAE: 0.0012379, Test MAE: 0.0008846
+Epoch: 679, Train MAE: 0.0018840, Val MAE: 0.0012336, Test MAE: 0.0008846
+Epoch: 680, Train MAE: 0.0017317, Val MAE: 0.0012232, Test MAE: 0.0008846
+Epoch: 681, Train MAE: 0.0017292, Val MAE: 0.0012183, Test MAE: 0.0008846
+Epoch: 682, Train MAE: 0.0013907, Val MAE: 0.0012145, Test MAE: 0.0008846
+Epoch: 683, Train MAE: 0.0015851, Val MAE: 0.0012164, Test MAE: 0.0008846
+Epoch: 684, Train MAE: 0.0018157, Val MAE: 0.0012079, Test MAE: 0.0008846
+Epoch: 685, Train MAE: 0.0011882, Val MAE: 0.0012051, Test MAE: 0.0008846
+Epoch: 686, Train MAE: 0.0016021, Val MAE: 0.0012033, Test MAE: 0.0008846
+Epoch: 687, Train MAE: 0.0014242, Val MAE: 0.0011928, Test MAE: 0.0008846
+Epoch: 688, Train MAE: 0.0014440, Val MAE: 0.0011788, Test MAE: 0.0008846
+Epoch: 689, Train MAE: 0.0015793, Val MAE: 0.0011628, Test MAE: 0.0008846
+Epoch: 690, Train MAE: 0.0017294, Val MAE: 0.0011591, Test MAE: 0.0008846
+Epoch: 691, Train MAE: 0.0012382, Val MAE: 0.0011656, Test MAE: 0.0008846
+Epoch: 692, Train MAE: 0.0016434, Val MAE: 0.0011584, Test MAE: 0.0008846
+Epoch: 693, Train MAE: 0.0015254, Val MAE: 0.0011512, Test MAE: 0.0008846
+Epoch: 694, Train MAE: 0.0013486, Val MAE: 0.0011635, Test MAE: 0.0008846
+Epoch: 695, Train MAE: 0.0015053, Val MAE: 0.0011825, Test MAE: 0.0008846
+Epoch: 696, Train MAE: 0.0021536, Val MAE: 0.0011765, Test MAE: 0.0008846
+Epoch: 697, Train MAE: 0.0010004, Val MAE: 0.0011941, Test MAE: 0.0008846
+Epoch: 698, Train MAE: 0.0010886, Val MAE: 0.0012103, Test MAE: 0.0008846
+Epoch: 699, Train MAE: 0.0016533, Val MAE: 0.0012337, Test MAE: 0.0008846
+Epoch: 700, Train MAE: 0.0013879, Val MAE: 0.0012362, Test MAE: 0.0008846
+Epoch: 701, Train MAE: 0.0015855, Val MAE: 0.0012474, Test MAE: 0.0008846
+Epoch: 702, Train MAE: 0.0010911, Val MAE: 0.0012573, Test MAE: 0.0008846
+Epoch: 703, Train MAE: 0.0013607, Val MAE: 0.0012734, Test MAE: 0.0008846
+Epoch: 704, Train MAE: 0.0010717, Val MAE: 0.0012847, Test MAE: 0.0008846
+Epoch: 705, Train MAE: 0.0013452, Val MAE: 0.0012856, Test MAE: 0.0008846
+Epoch: 706, Train MAE: 0.0017745, Val MAE: 0.0012890, Test MAE: 0.0008846
+Epoch: 707, Train MAE: 0.0014526, Val MAE: 0.0012941, Test MAE: 0.0008846
+Epoch: 708, Train MAE: 0.0016100, Val MAE: 0.0013040, Test MAE: 0.0008846
+Epoch: 709, Train MAE: 0.0018761, Val MAE: 0.0013050, Test MAE: 0.0008846
+Epoch: 710, Train MAE: 0.0011458, Val MAE: 0.0013154, Test MAE: 0.0008846
+Epoch: 711, Train MAE: 0.0016901, Val MAE: 0.0013213, Test MAE: 0.0008846
+Epoch: 712, Train MAE: 0.0014357, Val MAE: 0.0013220, Test MAE: 0.0008846
+Epoch: 713, Train MAE: 0.0013338, Val MAE: 0.0013416, Test MAE: 0.0008846
+Epoch: 714, Train MAE: 0.0012414, Val MAE: 0.0013519, Test MAE: 0.0008846
+Epoch: 715, Train MAE: 0.0011668, Val MAE: 0.0013604, Test MAE: 0.0008846
+Epoch: 716, Train MAE: 0.0010129, Val MAE: 0.0013746, Test MAE: 0.0008846
+Epoch: 717, Train MAE: 0.0015278, Val MAE: 0.0013703, Test MAE: 0.0008846
+Epoch: 718, Train MAE: 0.0011445, Val MAE: 0.0013751, Test MAE: 0.0008846
+Epoch: 719, Train MAE: 0.0015356, Val MAE: 0.0013794, Test MAE: 0.0008846
+Epoch: 720, Train MAE: 0.0014453, Val MAE: 0.0013906, Test MAE: 0.0008846
+Epoch: 721, Train MAE: 0.0010095, Val MAE: 0.0014020, Test MAE: 0.0008846
+Epoch: 722, Train MAE: 0.0013283, Val MAE: 0.0014157, Test MAE: 0.0008846
+Epoch: 723, Train MAE: 0.0012170, Val MAE: 0.0014210, Test MAE: 0.0008846
+Epoch: 724, Train MAE: 0.0015570, Val MAE: 0.0014220, Test MAE: 0.0008846
+Epoch: 725, Train MAE: 0.0013858, Val MAE: 0.0014352, Test MAE: 0.0008846
+Epoch: 726, Train MAE: 0.0008986, Val MAE: 0.0014404, Test MAE: 0.0008846
+Epoch: 727, Train MAE: 0.0011257, Val MAE: 0.0014398, Test MAE: 0.0008846
+Epoch: 728, Train MAE: 0.0012015, Val MAE: 0.0014444, Test MAE: 0.0008846
+Epoch: 729, Train MAE: 0.0012033, Val MAE: 0.0014447, Test MAE: 0.0008846
+Epoch: 730, Train MAE: 0.0013741, Val MAE: 0.0014519, Test MAE: 0.0008846
+Epoch: 731, Train MAE: 0.0009643, Val MAE: 0.0014521, Test MAE: 0.0008846
+Epoch: 732, Train MAE: 0.0011704, Val MAE: 0.0014545, Test MAE: 0.0008846
+Epoch: 733, Train MAE: 0.0012861, Val MAE: 0.0014558, Test MAE: 0.0008846
+Epoch: 734, Train MAE: 0.0015948, Val MAE: 0.0014664, Test MAE: 0.0008846
+Epoch: 735, Train MAE: 0.0009934, Val MAE: 0.0014771, Test MAE: 0.0008846
+Epoch: 736, Train MAE: 0.0016799, Val MAE: 0.0014853, Test MAE: 0.0008846
+Epoch: 737, Train MAE: 0.0010456, Val MAE: 0.0014900, Test MAE: 0.0008846
+Epoch: 738, Train MAE: 0.0010942, Val MAE: 0.0014968, Test MAE: 0.0008846
+Epoch: 739, Train MAE: 0.0014044, Val MAE: 0.0015129, Test MAE: 0.0008846
+Epoch: 740, Train MAE: 0.0011615, Val MAE: 0.0015144, Test MAE: 0.0008846
+Epoch: 741, Train MAE: 0.0011891, Val MAE: 0.0015157, Test MAE: 0.0008846
+Epoch: 742, Train MAE: 0.0012120, Val MAE: 0.0015245, Test MAE: 0.0008846
+Epoch: 743, Train MAE: 0.0011317, Val MAE: 0.0015318, Test MAE: 0.0008846
+Epoch: 744, Train MAE: 0.0010590, Val MAE: 0.0015403, Test MAE: 0.0008846
+Epoch: 745, Train MAE: 0.0013727, Val MAE: 0.0015457, Test MAE: 0.0008846
+Epoch: 746, Train MAE: 0.0012074, Val MAE: 0.0015468, Test MAE: 0.0008846
+Epoch: 747, Train MAE: 0.0014064, Val MAE: 0.0015628, Test MAE: 0.0008846
+Epoch: 748, Train MAE: 0.0010428, Val MAE: 0.0015681, Test MAE: 0.0008846
+Epoch: 749, Train MAE: 0.0013408, Val MAE: 0.0015602, Test MAE: 0.0008846
+Epoch: 750, Train MAE: 0.0012269, Val MAE: 0.0015615, Test MAE: 0.0008846
+Epoch: 751, Train MAE: 0.0008261, Val MAE: 0.0015755, Test MAE: 0.0008846
+Epoch: 752, Train MAE: 0.0010326, Val MAE: 0.0015845, Test MAE: 0.0008846
+Epoch: 753, Train MAE: 0.0010660, Val MAE: 0.0015895, Test MAE: 0.0008846
+Epoch: 754, Train MAE: 0.0013734, Val MAE: 0.0015984, Test MAE: 0.0008846
+Epoch: 755, Train MAE: 0.0011541, Val MAE: 0.0016037, Test MAE: 0.0008846
+Epoch: 756, Train MAE: 0.0009827, Val MAE: 0.0016126, Test MAE: 0.0008846
+Epoch: 757, Train MAE: 0.0014846, Val MAE: 0.0016082, Test MAE: 0.0008846
+Epoch: 758, Train MAE: 0.0009637, Val MAE: 0.0016194, Test MAE: 0.0008846
+Epoch: 759, Train MAE: 0.0008753, Val MAE: 0.0016319, Test MAE: 0.0008846
+Epoch: 760, Train MAE: 0.0012546, Val MAE: 0.0016325, Test MAE: 0.0008846
+Epoch: 761, Train MAE: 0.0011148, Val MAE: 0.0016386, Test MAE: 0.0008846
+Epoch: 762, Train MAE: 0.0010797, Val MAE: 0.0016442, Test MAE: 0.0008846
+Epoch: 763, Train MAE: 0.0008464, Val MAE: 0.0016505, Test MAE: 0.0008846
+Epoch: 764, Train MAE: 0.0010551, Val MAE: 0.0016589, Test MAE: 0.0008846
+Epoch: 765, Train MAE: 0.0013387, Val MAE: 0.0016596, Test MAE: 0.0008846
+Epoch: 766, Train MAE: 0.0014460, Val MAE: 0.0016596, Test MAE: 0.0008846
+Epoch: 767, Train MAE: 0.0008883, Val MAE: 0.0016781, Test MAE: 0.0008846
+Epoch: 768, Train MAE: 0.0010184, Val MAE: 0.0016807, Test MAE: 0.0008846
+Epoch: 769, Train MAE: 0.0008736, Val MAE: 0.0016884, Test MAE: 0.0008846
+Epoch: 770, Train MAE: 0.0010619, Val MAE: 0.0016930, Test MAE: 0.0008846
+Epoch: 771, Train MAE: 0.0009732, Val MAE: 0.0016978, Test MAE: 0.0008846
+Epoch: 772, Train MAE: 0.0013204, Val MAE: 0.0016937, Test MAE: 0.0008846
+Epoch: 773, Train MAE: 0.0008988, Val MAE: 0.0016995, Test MAE: 0.0008846
+Epoch: 774, Train MAE: 0.0011771, Val MAE: 0.0016982, Test MAE: 0.0008846
+Epoch: 775, Train MAE: 0.0011955, Val MAE: 0.0016917, Test MAE: 0.0008846
+Epoch: 776, Train MAE: 0.0008439, Val MAE: 0.0016929, Test MAE: 0.0008846
+Epoch: 777, Train MAE: 0.0012821, Val MAE: 0.0016843, Test MAE: 0.0008846
+Epoch: 778, Train MAE: 0.0010194, Val MAE: 0.0016905, Test MAE: 0.0008846
+Epoch: 779, Train MAE: 0.0010258, Val MAE: 0.0016870, Test MAE: 0.0008846
+Epoch: 780, Train MAE: 0.0007873, Val MAE: 0.0016916, Test MAE: 0.0008846
+Epoch: 781, Train MAE: 0.0008957, Val MAE: 0.0016914, Test MAE: 0.0008846
+Epoch: 782, Train MAE: 0.0010787, Val MAE: 0.0016849, Test MAE: 0.0008846
+Epoch: 783, Train MAE: 0.0009147, Val MAE: 0.0016857, Test MAE: 0.0008846
+Epoch: 784, Train MAE: 0.0011332, Val MAE: 0.0016845, Test MAE: 0.0008846
+Epoch: 785, Train MAE: 0.0011457, Val MAE: 0.0016921, Test MAE: 0.0008846
+Epoch: 786, Train MAE: 0.0007614, Val MAE: 0.0016959, Test MAE: 0.0008846
+Epoch: 787, Train MAE: 0.0010854, Val MAE: 0.0016969, Test MAE: 0.0008846
+Epoch: 788, Train MAE: 0.0010620, Val MAE: 0.0017009, Test MAE: 0.0008846
+Epoch: 789, Train MAE: 0.0011971, Val MAE: 0.0016983, Test MAE: 0.0008846
+Epoch: 790, Train MAE: 0.0009179, Val MAE: 0.0017063, Test MAE: 0.0008846
+Epoch: 791, Train MAE: 0.0007343, Val MAE: 0.0017108, Test MAE: 0.0008846
+Epoch: 792, Train MAE: 0.0010159, Val MAE: 0.0017099, Test MAE: 0.0008846
+Epoch: 793, Train MAE: 0.0009036, Val MAE: 0.0017094, Test MAE: 0.0008846
+Epoch: 794, Train MAE: 0.0009501, Val MAE: 0.0017087, Test MAE: 0.0008846
+Epoch: 795, Train MAE: 0.0007414, Val MAE: 0.0017164, Test MAE: 0.0008846
+Epoch: 796, Train MAE: 0.0009482, Val MAE: 0.0017197, Test MAE: 0.0008846
+Epoch: 797, Train MAE: 0.0008004, Val MAE: 0.0017271, Test MAE: 0.0008846
+Epoch: 798, Train MAE: 0.0007071, Val MAE: 0.0017281, Test MAE: 0.0008846
+Epoch: 799, Train MAE: 0.0012737, Val MAE: 0.0017265, Test MAE: 0.0008846
+Epoch: 800, Train MAE: 0.0009030, Val MAE: 0.0017284, Test MAE: 0.0008846
+Epoch: 801, Train MAE: 0.0011453, Val MAE: 0.0017286, Test MAE: 0.0008846
+Epoch: 802, Train MAE: 0.0013248, Val MAE: 0.0017214, Test MAE: 0.0008846
+Epoch: 803, Train MAE: 0.0010332, Val MAE: 0.0017234, Test MAE: 0.0008846
+Epoch: 804, Train MAE: 0.0007764, Val MAE: 0.0017302, Test MAE: 0.0008846
+Epoch: 805, Train MAE: 0.0008175, Val MAE: 0.0017372, Test MAE: 0.0008846
+Epoch: 806, Train MAE: 0.0010732, Val MAE: 0.0017362, Test MAE: 0.0008846
+Epoch: 807, Train MAE: 0.0010594, Val MAE: 0.0017300, Test MAE: 0.0008846
+Epoch: 808, Train MAE: 0.0010455, Val MAE: 0.0017332, Test MAE: 0.0008846
+Epoch: 809, Train MAE: 0.0007285, Val MAE: 0.0017432, Test MAE: 0.0008846
+Epoch: 810, Train MAE: 0.0009118, Val MAE: 0.0017497, Test MAE: 0.0008846
+Epoch: 811, Train MAE: 0.0011053, Val MAE: 0.0017431, Test MAE: 0.0008846
+Epoch: 812, Train MAE: 0.0009563, Val MAE: 0.0017413, Test MAE: 0.0008846
+Epoch: 813, Train MAE: 0.0008581, Val MAE: 0.0017452, Test MAE: 0.0008846
+Epoch: 814, Train MAE: 0.0012332, Val MAE: 0.0017377, Test MAE: 0.0008846
+Epoch: 815, Train MAE: 0.0009401, Val MAE: 0.0017397, Test MAE: 0.0008846
+Epoch: 816, Train MAE: 0.0009586, Val MAE: 0.0017330, Test MAE: 0.0008846
+Epoch: 817, Train MAE: 0.0013239, Val MAE: 0.0017227, Test MAE: 0.0008846
+Epoch: 818, Train MAE: 0.0008635, Val MAE: 0.0017258, Test MAE: 0.0008846
+Epoch: 819, Train MAE: 0.0006236, Val MAE: 0.0017331, Test MAE: 0.0008846
+Epoch: 820, Train MAE: 0.0007696, Val MAE: 0.0017314, Test MAE: 0.0008846
+Epoch: 821, Train MAE: 0.0009415, Val MAE: 0.0017315, Test MAE: 0.0008846
+Epoch: 822, Train MAE: 0.0007619, Val MAE: 0.0017349, Test MAE: 0.0008846
+Epoch: 823, Train MAE: 0.0008618, Val MAE: 0.0017306, Test MAE: 0.0008846
+Epoch: 824, Train MAE: 0.0009113, Val MAE: 0.0017287, Test MAE: 0.0008846
+Epoch: 825, Train MAE: 0.0011433, Val MAE: 0.0017192, Test MAE: 0.0008846
+Epoch: 826, Train MAE: 0.0008298, Val MAE: 0.0017241, Test MAE: 0.0008846
+Epoch: 827, Train MAE: 0.0008830, Val MAE: 0.0017257, Test MAE: 0.0008846
+Epoch: 828, Train MAE: 0.0009842, Val MAE: 0.0017242, Test MAE: 0.0008846
+Epoch: 829, Train MAE: 0.0008648, Val MAE: 0.0017275, Test MAE: 0.0008846
+Epoch: 830, Train MAE: 0.0011279, Val MAE: 0.0017214, Test MAE: 0.0008846
+Epoch: 831, Train MAE: 0.0009305, Val MAE: 0.0017225, Test MAE: 0.0008846
+Epoch: 832, Train MAE: 0.0010001, Val MAE: 0.0017213, Test MAE: 0.0008846
+Epoch: 833, Train MAE: 0.0006298, Val MAE: 0.0017303, Test MAE: 0.0008846
+Epoch: 834, Train MAE: 0.0006807, Val MAE: 0.0017334, Test MAE: 0.0008846
+Epoch: 835, Train MAE: 0.0009857, Val MAE: 0.0017301, Test MAE: 0.0008846
+Epoch: 836, Train MAE: 0.0006840, Val MAE: 0.0017348, Test MAE: 0.0008846
+Epoch: 837, Train MAE: 0.0009138, Val MAE: 0.0017301, Test MAE: 0.0008846
+Epoch: 838, Train MAE: 0.0010894, Val MAE: 0.0017258, Test MAE: 0.0008846
+Epoch: 839, Train MAE: 0.0007009, Val MAE: 0.0017274, Test MAE: 0.0008846
+Epoch: 840, Train MAE: 0.0007823, Val MAE: 0.0017299, Test MAE: 0.0008846
+Epoch: 841, Train MAE: 0.0007191, Val MAE: 0.0017326, Test MAE: 0.0008846
+Epoch: 842, Train MAE: 0.0007175, Val MAE: 0.0017359, Test MAE: 0.0008846
+Epoch: 843, Train MAE: 0.0006459, Val MAE: 0.0017389, Test MAE: 0.0008846
+Epoch: 844, Train MAE: 0.0007048, Val MAE: 0.0017393, Test MAE: 0.0008846
+Epoch: 845, Train MAE: 0.0009777, Val MAE: 0.0017332, Test MAE: 0.0008846
+Epoch: 846, Train MAE: 0.0007224, Val MAE: 0.0017379, Test MAE: 0.0008846
+Epoch: 847, Train MAE: 0.0007813, Val MAE: 0.0017372, Test MAE: 0.0008846
+Epoch: 848, Train MAE: 0.0007300, Val MAE: 0.0017411, Test MAE: 0.0008846
+Epoch: 849, Train MAE: 0.0007237, Val MAE: 0.0017452, Test MAE: 0.0008846
+Epoch: 850, Train MAE: 0.0010739, Val MAE: 0.0017365, Test MAE: 0.0008846
+Epoch: 851, Train MAE: 0.0012213, Val MAE: 0.0017232, Test MAE: 0.0008846
+Epoch: 852, Train MAE: 0.0006069, Val MAE: 0.0017300, Test MAE: 0.0008846
+Epoch: 853, Train MAE: 0.0007239, Val MAE: 0.0017348, Test MAE: 0.0008846
+Epoch: 854, Train MAE: 0.0007728, Val MAE: 0.0017382, Test MAE: 0.0008846
+Epoch: 855, Train MAE: 0.0006241, Val MAE: 0.0017440, Test MAE: 0.0008846
+Epoch: 856, Train MAE: 0.0009740, Val MAE: 0.0017447, Test MAE: 0.0008846
+Epoch: 857, Train MAE: 0.0007857, Val MAE: 0.0017479, Test MAE: 0.0008846
+Epoch: 858, Train MAE: 0.0009035, Val MAE: 0.0017457, Test MAE: 0.0008846
+Epoch: 859, Train MAE: 0.0008898, Val MAE: 0.0017411, Test MAE: 0.0008846
+Epoch: 860, Train MAE: 0.0006452, Val MAE: 0.0017444, Test MAE: 0.0008846
+Epoch: 861, Train MAE: 0.0005684, Val MAE: 0.0017482, Test MAE: 0.0008846
+Epoch: 862, Train MAE: 0.0008966, Val MAE: 0.0017436, Test MAE: 0.0008846
+Epoch: 863, Train MAE: 0.0007694, Val MAE: 0.0017454, Test MAE: 0.0008846
+Epoch: 864, Train MAE: 0.0008561, Val MAE: 0.0017414, Test MAE: 0.0008846
+Epoch: 865, Train MAE: 0.0005986, Val MAE: 0.0017448, Test MAE: 0.0008846
+Epoch: 866, Train MAE: 0.0007916, Val MAE: 0.0017413, Test MAE: 0.0008846
+Epoch: 867, Train MAE: 0.0007182, Val MAE: 0.0017465, Test MAE: 0.0008846
+Epoch: 868, Train MAE: 0.0007773, Val MAE: 0.0017485, Test MAE: 0.0008846
+Epoch: 869, Train MAE: 0.0009624, Val MAE: 0.0017427, Test MAE: 0.0008846
+Epoch: 870, Train MAE: 0.0007304, Val MAE: 0.0017427, Test MAE: 0.0008846
+Epoch: 871, Train MAE: 0.0005772, Val MAE: 0.0017461, Test MAE: 0.0008846
+Epoch: 872, Train MAE: 0.0009674, Val MAE: 0.0017387, Test MAE: 0.0008846
+Epoch: 873, Train MAE: 0.0006740, Val MAE: 0.0017391, Test MAE: 0.0008846
+Epoch: 874, Train MAE: 0.0007089, Val MAE: 0.0017371, Test MAE: 0.0008846
+Epoch: 875, Train MAE: 0.0008441, Val MAE: 0.0017343, Test MAE: 0.0008846
+Epoch: 876, Train MAE: 0.0006347, Val MAE: 0.0017355, Test MAE: 0.0008846
+Epoch: 877, Train MAE: 0.0005350, Val MAE: 0.0017372, Test MAE: 0.0008846
+Epoch: 878, Train MAE: 0.0005382, Val MAE: 0.0017396, Test MAE: 0.0008846
+Epoch: 879, Train MAE: 0.0006262, Val MAE: 0.0017425, Test MAE: 0.0008846
+Epoch: 880, Train MAE: 0.0006869, Val MAE: 0.0017374, Test MAE: 0.0008846
+Epoch: 881, Train MAE: 0.0006718, Val MAE: 0.0017408, Test MAE: 0.0008846
+Epoch: 882, Train MAE: 0.0007671, Val MAE: 0.0017372, Test MAE: 0.0008846
+Epoch: 883, Train MAE: 0.0007004, Val MAE: 0.0017371, Test MAE: 0.0008846
+Epoch: 884, Train MAE: 0.0006397, Val MAE: 0.0017406, Test MAE: 0.0008846
+Epoch: 885, Train MAE: 0.0010926, Val MAE: 0.0017291, Test MAE: 0.0008846
+Epoch: 886, Train MAE: 0.0008745, Val MAE: 0.0017226, Test MAE: 0.0008846
+Epoch: 887, Train MAE: 0.0006158, Val MAE: 0.0017251, Test MAE: 0.0008846
+Epoch: 888, Train MAE: 0.0006827, Val MAE: 0.0017237, Test MAE: 0.0008846
+Epoch: 889, Train MAE: 0.0006445, Val MAE: 0.0017254, Test MAE: 0.0008846
+Epoch: 890, Train MAE: 0.0006320, Val MAE: 0.0017242, Test MAE: 0.0008846
+Epoch: 891, Train MAE: 0.0005884, Val MAE: 0.0017252, Test MAE: 0.0008846
+Epoch: 892, Train MAE: 0.0007456, Val MAE: 0.0017198, Test MAE: 0.0008846
+Epoch: 893, Train MAE: 0.0006397, Val MAE: 0.0017214, Test MAE: 0.0008846
+Epoch: 894, Train MAE: 0.0005436, Val MAE: 0.0017222, Test MAE: 0.0008846
+Epoch: 895, Train MAE: 0.0006804, Val MAE: 0.0017201, Test MAE: 0.0008846
+Epoch: 896, Train MAE: 0.0008092, Val MAE: 0.0017135, Test MAE: 0.0008846
+Epoch: 897, Train MAE: 0.0007760, Val MAE: 0.0017107, Test MAE: 0.0008846
+Epoch: 898, Train MAE: 0.0008375, Val MAE: 0.0017037, Test MAE: 0.0008846
+Epoch: 899, Train MAE: 0.0007145, Val MAE: 0.0016973, Test MAE: 0.0008846
+Epoch: 900, Train MAE: 0.0005023, Val MAE: 0.0016982, Test MAE: 0.0008846
+Best Validation MAE: 0.0004924772679805755
+Testing MAE: 0.0008846311109761397
